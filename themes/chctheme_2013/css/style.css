@@ -1,0 +1,305 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Frutiger';
+    src: url('../frutiger/frutigerltstd-light-webfont.eot');
+    src: url('../frutiger/frutigerltstd-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../frutiger/frutigerltstd-light-webfont.woff') format('woff'),
+         url('../frutiger/frutigerltstd-light-webfont.ttf') format('truetype'),
+         url('../frutiger/frutigerltstd-light-webfont.svg#FrutigerLTStd45LightRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	margin:0;
+	padding:0;
+	background: url(../images/diag.png);
+	font-family: 'Frutiger', Helvetica, Arial, Sans-serif;
+}
+h1 {
+	font: 24px/30px 'Frutiger', Helvetica, Arial, Sans-serif;
+	color:#502d0e;
+}
+.underline{
+    text-decoration: underline;
+}
+p {
+	font: 18px/24px 'Frutiger', Helvetica, Arial, Sans-serif;
+	color:#000;
+}
+ul {
+	font: 18px/24px 'Frutiger', Helvetica, Arial, Sans-serif;
+}
+ol {
+	font: 18px/24px 'Frutiger', Helvetica, Arial, Sans-serif;
+}
+a {
+	color: #8B0000;
+	text-decoration: none;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+a:hover {
+	color: #a6610c;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+.clear{
+	clear:both;
+}
+#page {
+	width: 100%;
+}
+#page-wrapper{
+	width: 100%;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, .05);
+	box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, .05);
+}
+#secondary-menu {
+	float: right;
+}
+#header {
+	-webkit-border-radius:  5px 5px 0px 0px;
+    border-radius:  5px 5px 0px 0px;
+	background: url(../images/bg.png) center center;
+	height:100%;
+}
+#logo {
+	padding-top:5px;
+	padding-left: 5%;
+	float:left;
+}
+#headertext {
+	float:right;
+	text-align: center;
+}
+#title {
+	font: 34px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	letter-spacing: -1px;
+	color: #FFF;
+
+}
+.large {
+	font: 30px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	letter-spacing: -1px;
+	color: #502d0e;
+}
+#dept {
+	font: 18px/20px 'Frutiger', Helvetica, Arial, Sans-serif;
+	color: #502d0e;
+}
+#leftnavforsmall {
+	display: none;
+}
+#leftnav ul, #leftnav ul li.leaf{
+	list-style-type: none;
+	list-style-image: none;
+	list-style: none;
+}
+
+ul li.leaf {
+	list-style-type: none;
+	list-style-image: none;
+	list-style: none;
+}
+#main-menu {
+	-webkit-box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+	box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+	background: #fefcea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fefcea 0%, #f1e7c8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1e7c8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* IE10+ */
+	background: linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1e7c8',GradientType=0 ); /* IE6-9 */
+	padding:0;
+	margin:0;
+	border-top:1px solid rgba(80, 45, 3, 0.33);
+	border-bottom:1px solid rgba(80, 45, 3, 0.33);
+	margin:auto;
+	text-align:center;
+}
+#main-menu li {
+	display:inline-block; 
+}
+#main-menu li a {
+	padding:6px 10px;
+	color: #502d0e;
+	font: 20px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	text-decoration: none;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+#main-menu li a:hover {
+	color: #a6610c;
+	cursor: pointer;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+#content {
+	padding: 20px;
+	background: url(../images/bgbb.png) center center;
+	-webkit-box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, .05);
+	box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, .05); 
+	border:1px solid rgba(80, 45, 3, 0.33);
+	border-left:0;
+	border-right:0;
+	overflow:auto; /* For all browsers (this is the W3C standard) */
+	overflow-y: hidden; /* hides vertical scroll bar in IE */
+}
+
+.node-gallery .field-item img{
+	float: left;
+	width: 20%;
+	padding: 2.5%;
+}
+
+.front #page-text {
+	width:95%;
+}
+/*
+#page-text {
+	width:75%;
+	margin:0px 2.5%;
+	float:left;
+}
+*/
+#footer {
+	-webkit-border-radius:  0px 0px 5px 5px;
+    border-radius:  0px 0px 5px 5px;
+	background: #fefcea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fefcea 0%, #f1e7c8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1e7c8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* IE10+ */
+	background: linear-gradient(top,  #fefcea 0%,#f1e7c8 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1e7c8',GradientType=0 ); /* IE6-9 */
+	padding: 20px 0px;
+}
+.lehigh-creds {
+	width: 90%;
+	margin:auto;
+	text-align: center;
+	font: 12px/20px 'Frutiger', Helvetica, Arial, Sans-serif;
+	color:#000;
+}
+.lehigh-creds a {
+	color:#502d0e;
+	text-decoration:none;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+.lehigh-creds a:hover {
+	color: #a6610c;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+	-webkit-transition-duration: 0.5s, 0.5s;
+	-moz-transition-duration: 0.5s, 0.5s;
+	transition-duration: 0.5s, 0.5s; 
+	-webkit-transition-timing function: linear, ease-in-out;
+	-moz-transition-timing function: linear, ease-in-out; 
+	transition-timing-function: linear, ease-in-out;
+}
+
+.flex-nav-container {
+	margin-bottom:0px;
+}
+
+.block {
+  margin-bottom: 0px;
+}
+
+#block-system-navigation h2{
+	display:none;
+}
+
+/* Resizing for sidebars */
+#page-text {
+	width: 40%;
+	margin:0px 2.5% ;
+	float: left;
+}
+#page-text.one-sidebar {
+	width: 65%;
+	margin:0px 2.5%;
+	float:left;
+}
+#page-text.no-sidebar {
+	width: 95%;
+	margin:0px 2.5%;
+	float:left;
+}
+
+#leftnav {
+	float: left;
+	width: 27%;
+}
+.region-sidebar-second {
+	width: 27%;
+	float: right;
+}
+#menucontrol {
+	text-align: center;
+	cursor: pointer;
+}
+
+/*  University Communications alert message banner code (e2campus) */
+ #emergencyalert {}
+ #emergencyalert .SmartBoard_Table {
+background-color:#9A0000; color:#FFFFFF; font-color:#FFFFFF; 
+font-family:Helvetica, Arial, sans-serif; width:100%;
+}
+ #emergencyalert .SmartBoard_Row {
+font-family: Helvetica, Arial, sans-serif; text-align:center;
+}
+ #emergencyalert .SmartBoard_Subject {
+color:#ffffff; font-size: 16px; font-weight: bold;padding-top:2px;
+}
+ #emergencyalert .SmartBoard_DateTime {
+display:none;
+}
+ #emergencyalert td.SmartBoard_Message {
+color:#ffffff; font-family: Helvetica, Arial, sans-serif; 
+font-weight: normal;  font-size: 14px;padding-bottom:2px;
+}
+/*  / University Communications alert message banner code (e2campus) */ 

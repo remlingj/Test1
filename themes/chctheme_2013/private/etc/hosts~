@@ -1,0 +1,16 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+128.180.2.22	advance.cc.lehigh.edu
+128.180.2.22	senate.web.lehigh.edu
+128.180.2.6	bioe.lehigh.edu
+128.180.2.50	ewb.web.lehigh.edu
+128.180.2.50	careerservices.web.lehigh.edu
+128.180.2.50	cbeundergradcenter.web.lehigh.edu

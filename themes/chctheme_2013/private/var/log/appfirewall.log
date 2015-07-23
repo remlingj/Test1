@@ -1,0 +1,280 @@
+Feb 25 16:46:47 dyn109147.dept.lehigh.edu UserEventAgent[155] <Error>: cannot find useragent 1102
+Feb 25 16:48:59 dyn109147.dept.lehigh.edu UserEventAgent[263] <Error>: cannot find fw daemon port 1102
+Feb 25 17:25:09 dyn109147.dept.lehigh.edu UserEventAgent[788] <Error>: cannot find useragent 1102
+Feb 25 17:35:56 dyn109147.dept.lehigh.edu UserEventAgent[144] <Error>: cannot find useragent 1102
+Feb 26 08:15:23 dyn109147.dept.lehigh.edu UserEventAgent[652] <Error>: cannot find fw daemon port 1102
+Feb 26 12:23:42 dyn109147.dept.lehigh.edu UserEventAgent[5193] <Error>: cannot find useragent 1102
+Feb 26 15:00:26 dyn109147.dept.lehigh.edu UserEventAgent[5269] <Error>: cannot find fw daemon port 1102
+Feb 26 17:00:14 dyn109147.dept.lehigh.edu UserEventAgent[5664] <Error>: cannot find useragent 1102
+Feb 26 17:43:09 dyn109147.dept.lehigh.edu UserEventAgent[5717] <Error>: cannot find fw daemon port 1102
+Feb 26 19:05:51 dyn109147.dept.lehigh.edu UserEventAgent[6141] <Error>: cannot find useragent 1102
+Feb 27 10:04:40 dyn109147.dept.lehigh.edu UserEventAgent[6368] <Error>: cannot find fw daemon port 1102
+Feb 27 10:06:43 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+Feb 27 10:07:04 dyn109147.dept.lehigh.edu UserEventAgent[186] <Error>: cannot find fw daemon port 1102
+Feb 27 14:02:16 dyn109147.dept.lehigh.edu UserEventAgent[958] <Error>: cannot find useragent 1102
+Feb 27 14:15:00 dyn109147.dept.lehigh.edu UserEventAgent[1011] <Error>: cannot find fw daemon port 1102
+Feb 27 15:34:27 dyn109147.dept.lehigh.edu UserEventAgent[1237] <Error>: cannot find fw daemon port 1102
+Feb 27 15:34:38 dyn109147.dept.lehigh.edu UserEventAgent[1258] <Error>: cannot find useragent 1102
+Feb 27 15:34:57 dyn109147.dept.lehigh.edu UserEventAgent[1300] <Error>: cannot find fw daemon port 1102
+Feb 27 16:16:46 dyn109147.dept.lehigh.edu UserEventAgent[1545] <Error>: cannot find useragent 1102
+Feb 27 16:17:09 dyn109147.dept.lehigh.edu UserEventAgent[1574] <Error>: cannot find fw daemon port 1102
+Feb 27 18:50:52 dyn109147.dept.lehigh.edu UserEventAgent[2314] <Error>: cannot find useragent 1102
+Feb 28 10:22:55 dyn109147.dept.lehigh.edu UserEventAgent[2552] <Error>: cannot find fw daemon port 1102
+Feb 28 10:24:06 dyn109147.dept.lehigh.edu UserEventAgent[2679] <Error>: cannot find useragent 1102
+Feb 28 10:38:29 dyn109147.dept.lehigh.edu UserEventAgent[2830] <Error>: cannot find fw daemon port 1102
+Feb 28 10:48:16 dyn109147.dept.lehigh.edu UserEventAgent[3049] <Error>: cannot find useragent 1102
+Feb 28 10:55:11 dyn109147.dept.lehigh.edu UserEventAgent[3083] <Error>: cannot find fw daemon port 1102
+Feb 28 11:34:58 dyn109147.dept.lehigh.edu UserEventAgent[117] <Error>: cannot find useragent 1102
+Feb 28 12:02:01 dyn109147.dept.lehigh.edu UserEventAgent[211] <Error>: cannot find fw daemon port 1102
+Mar  4 11:01:56 dyn109147.dept.lehigh.edu UserEventAgent[9276] <Error>: cannot find useragent 1102
+Mar  4 11:03:58 dyn109147.dept.lehigh.edu UserEventAgent[9326] <Error>: cannot find fw daemon port 1102
+Mar  4 13:55:05 dyn109147.dept.lehigh.edu UserEventAgent[9896] <Error>: cannot find useragent 1102
+Mar  4 14:22:49 dyn109147.dept.lehigh.edu UserEventAgent[9951] <Error>: cannot find fw daemon port 1102
+Mar  4 16:38:53 dyn109147.dept.lehigh.edu UserEventAgent[10337] <Error>: cannot find useragent 1102
+Mar  4 16:43:16 dyn109147.dept.lehigh.edu UserEventAgent[10375] <Error>: cannot find fw daemon port 1102
+Mar  4 17:06:41 dyn109147.dept.lehigh.edu UserEventAgent[10515] <Error>: cannot find useragent 1102
+Mar  5 15:05:14 dyn109147.dept.lehigh.edu UserEventAgent[10841] <Error>: cannot find fw daemon port 1102
+Mar  5 17:01:17 dyn109147.dept.lehigh.edu UserEventAgent[11165] <Error>: cannot find useragent 1102
+Mar  5 17:14:14 dyn109147.dept.lehigh.edu UserEventAgent[11209] <Error>: cannot find fw daemon port 1102
+Mar  5 19:06:34 dyn109147.dept.lehigh.edu UserEventAgent[12315] <Error>: cannot find useragent 1102
+Mar  6 14:19:05 dyn109147.dept.lehigh.edu UserEventAgent[12611] <Error>: cannot find fw daemon port 1102
+Mar  6 16:15:45 dyn109147.dept.lehigh.edu UserEventAgent[15174] <Error>: cannot find useragent 1102
+Mar  6 16:16:48 dyn109147.dept.lehigh.edu UserEventAgent[15209] <Error>: cannot find fw daemon port 1102
+Mar  6 18:56:32 dyn109147.dept.lehigh.edu UserEventAgent[15683] <Error>: cannot find useragent 1102
+Mar  7 10:30:05 dyn109147.dept.lehigh.edu UserEventAgent[15909] <Error>: cannot find fw daemon port 1102
+Mar  7 11:11:45 dyn109147.dept.lehigh.edu UserEventAgent[16591] <Error>: cannot find useragent 1102
+Mar  7 11:46:27 dyn109147.dept.lehigh.edu UserEventAgent[16658] <Error>: cannot find fw daemon port 1102
+Mar  7 16:32:01 dyn109147.dept.lehigh.edu UserEventAgent[126] <Error>: cannot find useragent 1102
+Mar  7 17:12:36 dyn109147.dept.lehigh.edu UserEventAgent[206] <Error>: cannot find fw daemon port 1102
+Mar  7 17:14:54 dyn109147.dept.lehigh.edu UserEventAgent[325] <Error>: cannot find fw daemon port 1102
+Mar  7 17:15:05 dyn109147.dept.lehigh.edu UserEventAgent[344] <Error>: cannot find useragent 1102
+Mar 13 10:41:05 dyn109147.dept.lehigh.edu UserEventAgent[1640] <Error>: cannot find fw daemon port 1102
+Mar 18 13:53:03 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+Mar 18 13:53:33 dyn109147.dept.lehigh.edu UserEventAgent[190] <Error>: cannot find fw daemon port 1102
+Mar 18 17:15:28 dyn109147.dept.lehigh.edu UserEventAgent[837] <Error>: cannot find useragent 1102
+Mar 19 15:00:23 dyn109147.dept.lehigh.edu UserEventAgent[2390] <Error>: cannot find fw daemon port 1102
+Mar 19 17:48:34 dyn109147.dept.lehigh.edu UserEventAgent[3290] <Error>: cannot find useragent 1102
+Mar 19 18:13:37 dyn109147.dept.lehigh.edu UserEventAgent[3687] <Error>: cannot find fw daemon port 1102
+Mar 19 19:03:45 dyn109147.dept.lehigh.edu UserEventAgent[4076] <Error>: cannot find useragent 1102
+Mar 20 16:05:12 dyn109147.dept.lehigh.edu UserEventAgent[4662] <Error>: cannot find fw daemon port 1102
+Mar 20 18:57:26 dyn109147.dept.lehigh.edu UserEventAgent[5388] <Error>: cannot find useragent 1102
+Mar 21 09:40:36 dyn109147.dept.lehigh.edu UserEventAgent[5692] <Error>: cannot find fw daemon port 1102
+Mar 21 09:59:39 dyn109147.dept.lehigh.edu UserEventAgent[5923] <Error>: cannot find useragent 1102
+Mar 21 10:06:22 dyn109147.dept.lehigh.edu UserEventAgent[143] <Error>: cannot find useragent 1102
+Mar 21 12:01:13 dyn109147.dept.lehigh.edu UserEventAgent[287] <Error>: cannot find fw daemon port 1102
+Mar 21 12:16:07 dyn109147.dept.lehigh.edu UserEventAgent[472] <Error>: cannot find useragent 1102
+Mar 21 12:55:42 dyn109147.dept.lehigh.edu UserEventAgent[528] <Error>: cannot find fw daemon port 1102
+Mar 21 15:08:30 dyn109147.dept.lehigh.edu UserEventAgent[1013] <Error>: cannot find useragent 1102
+Mar 21 16:09:23 dyn109147.dept.lehigh.edu UserEventAgent[1065] <Error>: cannot find fw daemon port 1102
+Mar 21 18:56:43 dyn109147.dept.lehigh.edu UserEventAgent[1557] <Error>: cannot find useragent 1102
+Mar 22 08:51:54 dyn109147.dept.lehigh.edu UserEventAgent[1772] <Error>: cannot find fw daemon port 1102
+Mar 22 11:39:57 dyn109147.dept.lehigh.edu UserEventAgent[2141] <Error>: cannot find useragent 1102
+Mar 22 13:55:00 dyn109147.dept.lehigh.edu UserEventAgent[2233] <Error>: cannot find fw daemon port 1102
+Mar 25 08:58:27 dyn109147.dept.lehigh.edu UserEventAgent[130] <Error>: cannot find useragent 1102
+Mar 25 08:59:19 dyn109147.dept.lehigh.edu UserEventAgent[180] <Error>: cannot find fw daemon port 1102
+Mar 25 10:59:19 dyn109147.dept.lehigh.edu UserEventAgent[443] <Error>: cannot find useragent 1102
+Mar 25 11:09:06 dyn109147.dept.lehigh.edu UserEventAgent[501] <Error>: cannot find fw daemon port 1102
+Mar 25 13:59:39 dyn109147.dept.lehigh.edu UserEventAgent[1065] <Error>: cannot find useragent 1102
+Mar 25 16:02:23 dyn109147.dept.lehigh.edu UserEventAgent[1132] <Error>: cannot find fw daemon port 1102
+Mar 25 16:44:08 dyn109147.dept.lehigh.edu UserEventAgent[1358] <Error>: cannot find useragent 1102
+Mar 26 09:24:02 dyn109147.dept.lehigh.edu UserEventAgent[1609] <Error>: cannot find fw daemon port 1102
+Mar 26 12:17:09 dyn109147.dept.lehigh.edu UserEventAgent[2381] <Error>: cannot find useragent 1102
+Mar 26 13:57:43 dyn109147.dept.lehigh.edu UserEventAgent[2444] <Error>: cannot find fw daemon port 1102
+Mar 26 17:12:34 dyn109147.dept.lehigh.edu UserEventAgent[2917] <Error>: cannot find useragent 1102
+Mar 27 09:39:49 dyn109147.dept.lehigh.edu UserEventAgent[3141] <Error>: cannot find fw daemon port 1102
+Mar 27 12:17:58 dyn109147.dept.lehigh.edu UserEventAgent[3390] <Error>: cannot find useragent 1102
+Mar 27 12:31:20 dyn109147.dept.lehigh.edu UserEventAgent[3437] <Error>: cannot find fw daemon port 1102
+Mar 27 13:58:24 dyn109147.dept.lehigh.edu UserEventAgent[3733] <Error>: cannot find useragent 1102
+Mar 27 15:51:04 dyn109147.dept.lehigh.edu UserEventAgent[3809] <Error>: cannot find fw daemon port 1102
+Mar 27 18:53:11 dyn109147.dept.lehigh.edu UserEventAgent[4341] <Error>: cannot find useragent 1102
+Mar 28 09:30:06 dyn109147.dept.lehigh.edu UserEventAgent[4577] <Error>: cannot find fw daemon port 1102
+Mar 28 12:07:34 dyn109147.dept.lehigh.edu UserEventAgent[7268] <Error>: cannot find useragent 1102
+Mar 28 12:17:27 dyn109147.dept.lehigh.edu UserEventAgent[7317] <Error>: cannot find fw daemon port 1102
+Mar 28 14:51:54 dyn109147.dept.lehigh.edu UserEventAgent[7661] <Error>: cannot find useragent 1102
+Mar 28 16:10:27 dyn109147.dept.lehigh.edu UserEventAgent[7705] <Error>: cannot find fw daemon port 1102
+Mar 28 17:29:48 dyn109147.dept.lehigh.edu UserEventAgent[8043] <Error>: cannot find useragent 1102
+Mar 28 17:34:37 dyn109147.dept.lehigh.edu UserEventAgent[8094] <Error>: cannot find fw daemon port 1102
+Mar 28 17:44:37 dyn109147.dept.lehigh.edu UserEventAgent[8291] <Error>: cannot find useragent 1102
+Mar 29 14:15:06 dyn109147.dept.lehigh.edu UserEventAgent[8541] <Error>: cannot find fw daemon port 1102
+Mar 29 16:18:46 dyn109147.dept.lehigh.edu UserEventAgent[9111] <Error>: cannot find useragent 1102
+Apr  1 09:14:14 IMRC-D.local UserEventAgent[123] <Error>: cannot find useragent 1102
+Apr  1 09:46:41 dyn109147.dept.lehigh.edu UserEventAgent[206] <Error>: cannot find fw daemon port 1102
+Apr  1 11:51:18 dyn109147.dept.lehigh.edu UserEventAgent[581] <Error>: cannot find fw daemon port 1102
+Apr  1 11:51:28 dyn109147.dept.lehigh.edu UserEventAgent[600] <Error>: cannot find useragent 1102
+Apr  1 11:56:53 dyn109147.dept.lehigh.edu UserEventAgent[633] <Error>: cannot find fw daemon port 1102
+Apr  1 12:08:47 dyn109147.dept.lehigh.edu UserEventAgent[760] <Error>: cannot find useragent 1102
+Apr  1 12:59:22 dyn109147.dept.lehigh.edu UserEventAgent[829] <Error>: cannot find fw daemon port 1102
+Apr  1 15:51:01 dyn109147.dept.lehigh.edu UserEventAgent[1329] <Error>: cannot find useragent 1102
+Apr  1 17:23:31 dyn109147.dept.lehigh.edu UserEventAgent[1415] <Error>: cannot find fw daemon port 1102
+Apr  1 19:00:26 dyn109147.dept.lehigh.edu UserEventAgent[1912] <Error>: cannot find useragent 1102
+Apr  2 08:42:42 dyn109147.dept.lehigh.edu UserEventAgent[2130] <Error>: cannot find fw daemon port 1102
+Apr  2 12:19:36 dyn109147.dept.lehigh.edu UserEventAgent[2446] <Error>: cannot find useragent 1102
+Apr  2 16:00:40 dyn109147.dept.lehigh.edu UserEventAgent[2526] <Error>: cannot find fw daemon port 1102
+Apr  2 19:08:32 dyn109147.dept.lehigh.edu UserEventAgent[3066] <Error>: cannot find useragent 1102
+Apr  3 08:54:57 dyn109147.dept.lehigh.edu UserEventAgent[3252] <Error>: cannot find fw daemon port 1102
+Apr  3 11:40:48 dyn109147.dept.lehigh.edu UserEventAgent[3681] <Error>: cannot find useragent 1102
+Apr  3 15:50:22 dyn109147.dept.lehigh.edu UserEventAgent[3760] <Error>: cannot find fw daemon port 1102
+Apr  3 18:52:04 dyn109147.dept.lehigh.edu UserEventAgent[4658] <Error>: cannot find useragent 1102
+Apr  4 11:13:34 dyn109147.dept.lehigh.edu UserEventAgent[4864] <Error>: cannot find fw daemon port 1102
+Apr  4 12:04:12 dyn109147.dept.lehigh.edu UserEventAgent[5916] <Error>: cannot find useragent 1102
+Apr  4 12:42:44 dyn109147.dept.lehigh.edu UserEventAgent[6204] <Error>: cannot find fw daemon port 1102
+Apr  4 14:14:43 dyn109147.dept.lehigh.edu UserEventAgent[6698] <Error>: cannot find useragent 1102
+Apr  4 15:58:50 dyn109147.dept.lehigh.edu UserEventAgent[7268] <Error>: cannot find fw daemon port 1102
+Apr  4 18:49:43 dyn109147.dept.lehigh.edu UserEventAgent[7839] <Error>: cannot find useragent 1102
+Apr  5 08:30:00 dyn109147.dept.lehigh.edu UserEventAgent[8032] <Error>: cannot find fw daemon port 1102
+Apr  5 12:14:03 dyn109147.dept.lehigh.edu UserEventAgent[126] <Error>: cannot find useragent 1102
+Apr  5 14:32:06 dyn109147.dept.lehigh.edu UserEventAgent[232] <Error>: cannot find fw daemon port 1102
+Apr  5 16:00:51 dyn109147.dept.lehigh.edu UserEventAgent[740] <Error>: cannot find useragent 1102
+Apr  8 09:41:48 dyn109147.dept.lehigh.edu UserEventAgent[1605] <Error>: cannot find fw daemon port 1102
+Apr  8 12:02:44 dyn109147.dept.lehigh.edu UserEventAgent[1842] <Error>: cannot find fw daemon port 1102
+Apr  8 12:02:54 dyn109147.dept.lehigh.edu UserEventAgent[1857] <Error>: cannot find useragent 1102
+Apr  8 12:04:23 dyn109147.dept.lehigh.edu UserEventAgent[1910] <Error>: cannot find fw daemon port 1102
+Apr  8 14:00:30 dyn109147.dept.lehigh.edu UserEventAgent[2283] <Error>: cannot find useragent 1102
+Apr  8 17:14:49 dyn109147.dept.lehigh.edu UserEventAgent[2371] <Error>: cannot find fw daemon port 1102
+Apr  8 18:56:33 dyn109147.dept.lehigh.edu UserEventAgent[2734] <Error>: cannot find useragent 1102
+Apr  9 10:15:59 dyn109147.dept.lehigh.edu UserEventAgent[3003] <Error>: cannot find fw daemon port 1102
+Apr  9 11:47:25 dyn109147.dept.lehigh.edu UserEventAgent[3232] <Error>: cannot find useragent 1102
+Apr  9 13:59:00 dyn109147.dept.lehigh.edu UserEventAgent[3298] <Error>: cannot find fw daemon port 1102
+Apr  9 17:10:57 dyn109147.dept.lehigh.edu UserEventAgent[5987] <Error>: cannot find useragent 1102
+Apr  9 17:19:56 dyn109147.dept.lehigh.edu UserEventAgent[6040] <Error>: cannot find fw daemon port 1102
+Apr  9 18:53:58 dyn109147.dept.lehigh.edu UserEventAgent[6414] <Error>: cannot find useragent 1102
+Apr 10 09:27:56 dyn109147.dept.lehigh.edu UserEventAgent[6629] <Error>: cannot find fw daemon port 1102
+Apr 10 12:09:29 dyn109147.dept.lehigh.edu UserEventAgent[7177] <Error>: cannot find useragent 1102
+Apr 10 14:11:54 dyn109147.dept.lehigh.edu UserEventAgent[7247] <Error>: cannot find fw daemon port 1102
+Apr 10 16:07:39 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+Apr 10 16:07:57 dyn109147.dept.lehigh.edu UserEventAgent[174] <Error>: cannot find fw daemon port 1102
+Apr 10 18:53:34 dyn109147.dept.lehigh.edu UserEventAgent[608] <Error>: cannot find useragent 1102
+Apr 11 09:16:19 dyn109147.dept.lehigh.edu UserEventAgent[820] <Error>: cannot find fw daemon port 1102
+Apr 11 12:13:26 dyn109147.dept.lehigh.edu UserEventAgent[1007] <Error>: cannot find fw daemon port 1102
+Apr 11 12:13:37 dyn109147.dept.lehigh.edu UserEventAgent[1020] <Error>: cannot find useragent 1102
+Apr 11 12:27:51 dyn109147.dept.lehigh.edu UserEventAgent[1080] <Error>: cannot find fw daemon port 1102
+Apr 11 14:47:13 dyn109147.dept.lehigh.edu UserEventAgent[1621] <Error>: cannot find useragent 1102
+Apr 11 14:47:40 dyn109147.dept.lehigh.edu UserEventAgent[1662] <Error>: cannot find fw daemon port 1102
+Apr 11 15:13:21 dyn109147.dept.lehigh.edu UserEventAgent[1862] <Error>: cannot find useragent 1102
+Apr 11 16:05:49 dyn109147.dept.lehigh.edu UserEventAgent[1916] <Error>: cannot find fw daemon port 1102
+Apr 11 18:57:59 dyn109147.dept.lehigh.edu UserEventAgent[2453] <Error>: cannot find useragent 1102
+Apr 12 08:58:19 dyn109147.dept.lehigh.edu UserEventAgent[2689] <Error>: cannot find fw daemon port 1102
+Apr 12 12:21:47 dyn109147.dept.lehigh.edu UserEventAgent[3082] <Error>: cannot find useragent 1102
+Apr 12 14:10:17 dyn109147.dept.lehigh.edu UserEventAgent[3131] <Error>: cannot find fw daemon port 1102
+Apr 12 16:04:40 dyn109147.dept.lehigh.edu UserEventAgent[3532] <Error>: cannot find useragent 1102
+Apr 15 09:21:15 dyn109147.dept.lehigh.edu UserEventAgent[4209] <Error>: cannot find fw daemon port 1102
+Apr 15 12:08:57 dyn109147.dept.lehigh.edu UserEventAgent[4605] <Error>: cannot find useragent 1102
+Apr 15 13:31:28 dyn109147.dept.lehigh.edu UserEventAgent[4680] <Error>: cannot find fw daemon port 1102
+Apr 15 15:14:58 dyn109147.dept.lehigh.edu UserEventAgent[5227] <Error>: cannot find useragent 1102
+Apr 15 17:15:28 dyn109147.dept.lehigh.edu UserEventAgent[5300] <Error>: cannot find fw daemon port 1102
+Apr 15 18:56:09 dyn109147.dept.lehigh.edu UserEventAgent[5734] <Error>: cannot find useragent 1102
+Apr 16 09:07:10 dyn109147.dept.lehigh.edu UserEventAgent[5930] <Error>: cannot find fw daemon port 1102
+Apr 16 12:13:10 dyn109147.dept.lehigh.edu UserEventAgent[6258] <Error>: cannot find useragent 1102
+Apr 16 12:41:57 dyn109147.dept.lehigh.edu UserEventAgent[6325] <Error>: cannot find fw daemon port 1102
+Apr 16 14:02:46 dyn109147.dept.lehigh.edu UserEventAgent[6749] <Error>: cannot find useragent 1102
+Apr 16 14:04:41 dyn109147.dept.lehigh.edu UserEventAgent[6853] <Error>: cannot find fw daemon port 1102
+Apr 16 15:53:05 dyn109147.dept.lehigh.edu UserEventAgent[7319] <Error>: cannot find useragent 1102
+Apr 16 17:04:57 dyn109147.dept.lehigh.edu UserEventAgent[7673] <Error>: cannot find fw daemon port 1102
+Apr 16 19:05:58 dyn109147.dept.lehigh.edu UserEventAgent[8109] <Error>: cannot find useragent 1102
+Apr 17 14:09:11 dyn109147.dept.lehigh.edu UserEventAgent[9252] <Error>: cannot find fw daemon port 1102
+Apr 17 15:56:42 dyn109147.dept.lehigh.edu UserEventAgent[9738] <Error>: cannot find useragent 1102
+Apr 17 15:59:40 dyn109147.dept.lehigh.edu UserEventAgent[9931] <Error>: cannot find fw daemon port 1102
+Apr 17 16:48:30 dyn109147.dept.lehigh.edu UserEventAgent[10920] <Error>: cannot find useragent 1102
+Apr 17 17:55:35 dyn109147.dept.lehigh.edu UserEventAgent[10967] <Error>: cannot find fw daemon port 1102
+Apr 17 18:53:21 dyn109147.dept.lehigh.edu UserEventAgent[11251] <Error>: cannot find useragent 1102
+Apr 18 12:20:33 dyn109147.dept.lehigh.edu UserEventAgent[13105] <Error>: cannot find fw daemon port 1102
+Apr 18 15:09:36 dyn109147.dept.lehigh.edu UserEventAgent[13751] <Error>: cannot find useragent 1102
+Apr 18 16:07:47 dyn109147.dept.lehigh.edu UserEventAgent[13808] <Error>: cannot find fw daemon port 1102
+Apr 18 18:48:31 dyn109147.dept.lehigh.edu UserEventAgent[14579] <Error>: cannot find useragent 1102
+Apr 22 13:14:00 IMRC-D.local UserEventAgent[124] <Error>: cannot find useragent 1102
+Apr 22 17:14:54 dyn109147.dept.lehigh.edu UserEventAgent[231] <Error>: cannot find fw daemon port 1102
+Apr 22 19:02:49 dyn109147.dept.lehigh.edu UserEventAgent[701] <Error>: cannot find useragent 1102
+Apr 23 09:13:16 dyn109147.dept.lehigh.edu UserEventAgent[912] <Error>: cannot find fw daemon port 1102
+Apr 23 17:11:36 dyn109147.dept.lehigh.edu UserEventAgent[7994] <Error>: cannot find useragent 1102
+Apr 23 17:12:00 dyn109147.dept.lehigh.edu UserEventAgent[8025] <Error>: cannot find fw daemon port 1102
+Apr 23 18:57:39 dyn109147.dept.lehigh.edu UserEventAgent[8483] <Error>: cannot find useragent 1102
+Apr 24 16:03:44 dyn109147.dept.lehigh.edu UserEventAgent[8720] <Error>: cannot find fw daemon port 1102
+Apr 24 17:19:57 dyn109147.dept.lehigh.edu UserEventAgent[9127] <Error>: cannot find useragent 1102
+Apr 25 12:08:52 dyn109147.dept.lehigh.edu UserEventAgent[9383] <Error>: cannot find fw daemon port 1102
+Apr 25 13:59:45 dyn109147.dept.lehigh.edu UserEventAgent[9727] <Error>: cannot find useragent 1102
+Apr 25 15:07:33 dyn109147.dept.lehigh.edu UserEventAgent[9786] <Error>: cannot find fw daemon port 1102
+Apr 25 15:18:52 dyn109147.dept.lehigh.edu UserEventAgent[9993] <Error>: cannot find useragent 1102
+Apr 25 16:14:21 dyn109147.dept.lehigh.edu UserEventAgent[10047] <Error>: cannot find fw daemon port 1102
+Apr 25 18:46:23 dyn109147.dept.lehigh.edu UserEventAgent[10344] <Error>: cannot find useragent 1102
+Apr 26 09:31:00 dyn109147.dept.lehigh.edu UserEventAgent[10572] <Error>: cannot find fw daemon port 1102
+Apr 26 12:09:32 dyn109147.dept.lehigh.edu UserEventAgent[11018] <Error>: cannot find useragent 1102
+Apr 26 12:15:48 dyn109147.dept.lehigh.edu UserEventAgent[11052] <Error>: cannot find fw daemon port 1102
+Apr 26 12:30:18 dyn109147.dept.lehigh.edu UserEventAgent[11291] <Error>: cannot find useragent 1102
+Apr 26 12:58:33 dyn109147.dept.lehigh.edu UserEventAgent[11339] <Error>: cannot find fw daemon port 1102
+Apr 26 13:00:31 dyn109147.dept.lehigh.edu UserEventAgent[11502] <Error>: cannot find useragent 1102
+Apr 26 14:40:18 dyn109147.dept.lehigh.edu UserEventAgent[11582] <Error>: cannot find fw daemon port 1102
+Apr 26 16:03:27 dyn109147.dept.lehigh.edu UserEventAgent[11986] <Error>: cannot find useragent 1102
+Apr 30 09:20:28 dyn109147.dept.lehigh.edu UserEventAgent[133] <Error>: cannot find useragent 1102
+Apr 30 09:55:18 dyn109147.dept.lehigh.edu UserEventAgent[216] <Error>: cannot find fw daemon port 1102
+Apr 30 10:02:34 dyn109147.dept.lehigh.edu UserEventAgent[349] <Error>: cannot find useragent 1102
+May  2 11:52:11 dyn109147.dept.lehigh.edu UserEventAgent[856] <Error>: cannot find fw daemon port 1102
+May  3 08:18:11 dyn109147.dept.lehigh.edu UserEventAgent[126] <Error>: cannot find useragent 1102
+May  3 08:40:02 dyn109147.dept.lehigh.edu UserEventAgent[209] <Error>: cannot find fw daemon port 1102
+May  3 10:46:15 dyn109147.dept.lehigh.edu UserEventAgent[523] <Error>: cannot find fw daemon port 1102
+May  3 10:46:25 dyn109147.dept.lehigh.edu UserEventAgent[542] <Error>: cannot find useragent 1102
+May  3 16:39:36 dyn109147.dept.lehigh.edu UserEventAgent[646] <Error>: cannot find fw daemon port 1102
+May  6 09:13:21 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+May  6 09:14:04 dyn109147.dept.lehigh.edu UserEventAgent[180] <Error>: cannot find fw daemon port 1102
+May  6 09:18:25 dyn109147.dept.lehigh.edu UserEventAgent[316] <Error>: cannot find useragent 1102
+May  6 10:06:41 dyn109147.dept.lehigh.edu UserEventAgent[370] <Error>: cannot find fw daemon port 1102
+May  8 08:48:01 dyn109147.dept.lehigh.edu UserEventAgent[1256] <Error>: cannot find fw daemon port 1102
+May  8 08:48:12 dyn109147.dept.lehigh.edu UserEventAgent[1276] <Error>: cannot find useragent 1102
+May  8 08:48:42 dyn109147.dept.lehigh.edu UserEventAgent[1314] <Error>: cannot find fw daemon port 1102
+May  8 08:59:09 dyn109147.dept.lehigh.edu UserEventAgent[1509] <Error>: cannot find useragent 1102
+May 14 09:41:07 dyn109147.dept.lehigh.edu UserEventAgent[2885] <Error>: cannot find fw daemon port 1102
+May 14 10:50:31 dyn109147.dept.lehigh.edu UserEventAgent[3250] <Error>: cannot find useragent 1102
+May 15 08:38:35 dyn109147.dept.lehigh.edu UserEventAgent[3513] <Error>: cannot find fw daemon port 1102
+May 15 12:28:14 dyn109147.dept.lehigh.edu UserEventAgent[3668] <Error>: cannot find useragent 1102
+May 28 08:47:05 dyn109147.dept.lehigh.edu UserEventAgent[6498] <Error>: cannot find fw daemon port 1102
+May 28 12:02:24 dyn109147.dept.lehigh.edu UserEventAgent[125] <Error>: cannot find useragent 1102
+May 28 12:11:36 dyn109147.dept.lehigh.edu UserEventAgent[205] <Error>: cannot find fw daemon port 1102
+May 28 12:22:24 dyn109147.dept.lehigh.edu UserEventAgent[372] <Error>: cannot find useragent 1102
+May 29 13:08:00 dyn109147.dept.lehigh.edu UserEventAgent[989] <Error>: cannot find fw daemon port 1102
+May 29 13:40:53 dyn109147.dept.lehigh.edu UserEventAgent[1257] <Error>: cannot find useragent 1102
+May 29 14:27:43 dyn109147.dept.lehigh.edu UserEventAgent[1980] <Error>: cannot find fw daemon port 1102
+May 29 14:32:08 dyn109147.dept.lehigh.edu UserEventAgent[2123] <Error>: cannot find useragent 1102
+Jun 11 12:35:25 dyn109147.dept.lehigh.edu UserEventAgent[123] <Error>: cannot find useragent 1102
+Jun 11 12:35:52 dyn109147.dept.lehigh.edu UserEventAgent[187] <Error>: cannot find fw daemon port 1102
+Jun 12 14:53:41 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+Jun 12 14:54:06 dyn109147.dept.lehigh.edu UserEventAgent[184] <Error>: cannot find fw daemon port 1102
+Jun 13 10:55:21 dyn109147.dept.lehigh.edu UserEventAgent[124] <Error>: cannot find useragent 1102
+Jun 13 12:25:18 dyn109147.dept.lehigh.edu UserEventAgent[211] <Error>: cannot find fw daemon port 1102
+Jun 13 16:32:18 dyn109147.dept.lehigh.edu UserEventAgent[1298] <Error>: cannot find useragent 1102
+Jun 17 08:42:54 dyn109147.dept.lehigh.edu UserEventAgent[2157] <Error>: cannot find fw daemon port 1102
+Jun 17 16:29:20 dyn109147.dept.lehigh.edu UserEventAgent[3647] <Error>: cannot find useragent 1102
+Jun 18 08:39:00 dyn109147.dept.lehigh.edu UserEventAgent[3878] <Error>: cannot find fw daemon port 1102
+Jun 18 16:24:08 dyn109147.dept.lehigh.edu UserEventAgent[7653] <Error>: cannot find useragent 1102
+Jun 19 11:33:47 dyn109147.dept.lehigh.edu UserEventAgent[7917] <Error>: cannot find fw daemon port 1102
+Jun 19 16:30:05 dyn109147.dept.lehigh.edu UserEventAgent[9870] <Error>: cannot find useragent 1102
+Jun 20 08:32:57 dyn109147.dept.lehigh.edu UserEventAgent[10068] <Error>: cannot find fw daemon port 1102
+Jun 20 16:28:37 dyn109147.dept.lehigh.edu UserEventAgent[10876] <Error>: cannot find useragent 1102
+Jun 24 08:28:41 dyn109147.dept.lehigh.edu UserEventAgent[11680] <Error>: cannot find fw daemon port 1102
+Jun 24 20:36:43 dyn109147.dept.lehigh.edu UserEventAgent[12919] <Error>: cannot find useragent 1102
+Jun 25 08:38:41 dyn109147.dept.lehigh.edu UserEventAgent[13075] <Error>: cannot find fw daemon port 1102
+Jun 25 16:24:33 dyn109147.dept.lehigh.edu UserEventAgent[14122] <Error>: cannot find useragent 1102
+Jun 26 12:52:03 dyn109147.dept.lehigh.edu UserEventAgent[14387] <Error>: cannot find fw daemon port 1102
+Jun 26 15:18:43 dyn109147.dept.lehigh.edu UserEventAgent[127] <Error>: cannot find useragent 1102
+Jun 27 08:41:45 dyn109147.dept.lehigh.edu UserEventAgent[429] <Error>: cannot find fw daemon port 1102
+Jun 27 08:46:49 dyn109147.dept.lehigh.edu UserEventAgent[593] <Error>: cannot find useragent 1102
+Jun 27 11:28:24 dyn109147.dept.lehigh.edu UserEventAgent[823] <Error>: cannot find fw daemon port 1102
+Jun 27 14:44:12 dyn109147.dept.lehigh.edu UserEventAgent[1527] <Error>: cannot find useragent 1102
+Jun 27 14:44:28 dyn109147.dept.lehigh.edu UserEventAgent[1563] <Error>: cannot find fw daemon port 1102
+Jun 27 16:28:37 dyn109147.dept.lehigh.edu UserEventAgent[2271] <Error>: cannot find useragent 1102
+Jun 28 10:28:55 dyn109147.dept.lehigh.edu UserEventAgent[2495] <Error>: cannot find fw daemon port 1102
+Jun 28 11:54:19 dyn109147.dept.lehigh.edu UserEventAgent[130] <Error>: cannot find useragent 1102
+Jun 28 11:54:38 dyn109147.dept.lehigh.edu UserEventAgent[182] <Error>: cannot find fw daemon port 1102
+Jun 28 15:57:14 dyn109147.dept.lehigh.edu UserEventAgent[735] <Error>: cannot find useragent 1102
+Jul  1 15:34:33 dyn109147.dept.lehigh.edu UserEventAgent[1483] <Error>: cannot find fw daemon port 1102
+Jul  1 15:52:53 dyn109147.dept.lehigh.edu UserEventAgent[1683] <Error>: cannot find useragent 1102
+Jul  2 12:10:14 dyn109147.dept.lehigh.edu UserEventAgent[1932] <Error>: cannot find fw daemon port 1102
+Jul  8 11:58:32 dyn109147.dept.lehigh.edu UserEventAgent[125] <Error>: cannot find useragent 1102
+Jul  8 12:05:12 dyn109147.dept.lehigh.edu UserEventAgent[219] <Error>: cannot find fw daemon port 1102
+Jul  8 14:22:51 dyn109147.dept.lehigh.edu UserEventAgent[983] <Error>: cannot find useragent 1102
+Jul  8 14:23:14 dyn109147.dept.lehigh.edu UserEventAgent[1017] <Error>: cannot find fw daemon port 1102
+Jul  8 14:28:45 dyn109147.dept.lehigh.edu UserEventAgent[1286] <Error>: cannot find fw daemon port 1102
+Jul  8 14:28:56 dyn109147.dept.lehigh.edu UserEventAgent[1300] <Error>: cannot find useragent 1102
+Jul  8 14:29:25 dyn109147.dept.lehigh.edu UserEventAgent[1338] <Error>: cannot find fw daemon port 1102
+Jul  8 14:34:17 dyn109147.dept.lehigh.edu UserEventAgent[1463] <Error>: cannot find useragent 1102
+Jul  8 14:34:49 dyn109147.dept.lehigh.edu UserEventAgent[1560] <Error>: cannot find fw daemon port 1102
+Jul  8 14:37:30 dyn109147.dept.lehigh.edu UserEventAgent[1737] <Error>: cannot find useragent 1102
+Jul  8 14:37:40 dyn109147.dept.lehigh.edu UserEventAgent[1769] <Error>: cannot find fw daemon port 1102

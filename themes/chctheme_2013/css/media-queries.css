@@ -1,0 +1,511 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 480px) 	{
+	h1 { font-size: 24px;  padding-left:5%}
+	h2 { font-size: 16px;  }
+	h3 { font-size: 12px;  }
+	h4 { font-size: 8pt;  }
+	p { font-size: 14px; width:90%; margin:auto; text-align:justify;}
+	ul,ol { font-size: 14px; }
+	.flexslider { display:none; }
+	#header {
+		text-align:center;
+		height:auto;
+		padding:20px 0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#logo img{
+		width:50%;
+	}
+	#logo {
+		width:100%;
+		padding-left:0px;
+		padding-bottom:15px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#headertext {
+		float:none;
+	}
+	#title {
+		font: 30px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	}
+	#dept {
+		font: 15px/20px 'Frutiger', Helvetica, Arial, Sans-serif;
+		padding-left:0px;
+	}
+	#main-menu {
+		display: none;
+	}
+	#main-menu li {
+		display:block;
+		border-bottom:1px solid #BDC9CE;
+	}
+	#main-menu li:last-child{
+		border-bottom:none;
+	}
+	#main-menu li a{
+		width:100%;
+		display:block;
+		padding:10px 0px;
+	}
+	#welcome {
+		padding: 20px 0px 30px 0px;
+	}
+	#page-text, #page-text.one-sidebar, #page-text.no-sidebar {
+		width:100%;
+		margin: 0px;
+	}
+	#leftnav {
+		display: none;
+	}
+	#leftnavforsmall {
+		display: block;
+		padding-top: 0px;
+		width: 100%;
+		float: left;
+	}
+	.region-sidebar-second {
+		padding-top: 0px;
+		width: 100%;
+		float: left;
+	}
+	.lehigh-creds p{
+		font-size: 9px;
+		line-height:14px;
+	} 	
+}
+
+@media screen and (min-width:481px) and (max-width: 600px) 	{
+	h1 { font-size: 20px;  }
+	h2 { font-size: 18px;  }
+	h3 { font-size: 13px;  }
+	h4 { font-size: 8pt;  }
+	p { font-size: 12px; }
+	ul,ol { font-size: 12px; }
+	#menucontrol {
+		display: none;
+	}
+	#header {
+		text-align:center;
+		height:auto;
+		padding:40px 0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#logo img{
+		width:50%;
+	}
+	#logo {
+		width:100%;
+		padding-left:0px;
+		padding-bottom:15px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#headertext {
+		float:none;
+	}
+	#title {
+		font: 30px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	}
+	#dept {
+		font: 15px/20px 'Frutiger', Helvetica, Arial, Sans-serif;
+		padding-left:0px;
+	}
+	#welcome {
+		padding: 20px 20px 30px 20px;
+		-webkit-box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, .05);
+	  	box-shadow: inset 0px 0px 5px 5px rgba(0, 0, 0, .05);  
+	}
+	#leftnav {
+		display: none;
+	}
+	#leftnavforsmall {
+		display: block;
+		padding-top: 0px;
+		width: 100%;
+		float: left;
+	}
+	.region-sidebar-second {
+		padding-top: 0px;
+		width: 100%;
+		float: left;
+	}
+	#page-text, #page-text.one-sidebar, #page-text.no-sidebar {
+		width:100%;
+		margin: 0px;
+	}
+	.lehigh-creds p{
+		font-size: 11px;
+		line-height:18px;
+	}
+}
+
+@media screen and (min-width:600px) and (max-width: 800px) 	{
+	h1 { font-size: 22px; }
+	h2 { font-size: 20px; }
+	h3 { font-size: 18px; }
+	h4 { font-size: 8pt;  }
+	p { font-size: 12px; }
+	ul,ol { font-size: 12px; }
+	#menucontrol {
+		display: none;
+	}
+	#header {
+		text-align:center;
+		height:auto;
+		padding:40px 0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0s, 0s;
+		-moz-transition-duration: 0s, 0s;
+		transition-duration: 0s, 0s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#logo {
+		width:100%;
+		padding-left:0px;
+		padding-bottom:15px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0s, 0s;
+		-moz-transition-duration: 0s, 0s;
+		transition-duration: 0s, 0s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#headertext {
+		float:none;
+	}
+	#title {
+		font: 30px/40px 'Frutiger', Helvetica, Arial, Sans-serif;
+	}
+	#dept {
+		font: 15px/20px 'Frutiger', Helvetica, Arial, Sans-serif;
+		padding-left:0px;
+	}
+	#welcome{
+		padding: 20px 20px 30px 20px;
+	}
+	#leftnav {
+		display: none;
+	}
+	#main-menu {
+	}
+	#leftnavforsmall {
+		display: block;
+		padding-top: 0px;
+		width: 100%;
+		float: left;
+	}
+	.region-sidebar-second {
+		padding-top: 0px;
+		width: 100%;
+	}
+	#page-text, #page-text.one-sidebar, #page-text.no-sidebar {
+		width:100%;
+		margin: 0px;
+	}
+	.lehigh-creds p{
+		font-size: 12px;
+		line-height:20px;
+	}
+}
+
+@media screen and (min-width:801px) and (max-width: 992px) 	{
+	h1 { font-size: 25px; }
+	h2 { font-size: 22px; }
+	h3 { font-size: 20px; }
+	h4 { font-size: 9pt;  }
+	p { font-size: 12px; }
+	ul,ol { font-size: 12px; }
+	#menucontrol {
+		display: none;
+	}
+	body{
+		padding:0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#header{
+		padding-top:40px; 
+		height:114px;
+	}
+	#page {
+		width:100%;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#page-wrapper {
+		width:100%;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#welcome {
+		padding: 20px 20px 30px 20px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#main-menu {
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#headertext {
+		padding-right:2%;
+		float: none;
+	}
+	.lehigh-creds p{
+		font-size: 12px;
+		line-height:20px;
+	}
+	#logo{
+		padding-right: 2%;
+	}
+	#title { 
+	    font-size: 30px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width: 1200px) 	{
+	h1 { font-size: 28px; }
+	h2 { font-size: 25px; }
+	h3 { font-size: 22px; }
+	h4 { font-size: 10pt; }
+	p { font-size: 13px; }
+	ul,ol { font-size: 13px; }
+	#menucontrol {
+		display: none;
+	}
+	#header{
+		padding-top:40px; 
+		height:114px;
+	}
+	body{
+		padding:20px 0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#page {
+		width:992px;
+		margin:auto;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#page-wrapper {
+		width:992px;
+		-webkit-box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+		box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+		margin:auto;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#welcome {
+		padding: 20px 20px 30px 20px;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#main-menu {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#headertext {
+		padding-right:5%;
+	}
+	.lehigh-creds p{
+		font-size: 12px;
+		line-height:20px;
+	}
+	#title { 
+	    width:350px;
+}
+}
+
+@media screen and (min-width:1200px) 	{
+	h1 { font-size: 30px;  }
+	h2 { font-size: 25px;  }
+	h3 { font-size: 22px;  }
+	h4 { font-size: 11pt;  }
+	p { font-size: 14px; }
+	ul,ol { font-size: 14px; }
+	#menucontrol {
+		display: none;
+	}
+	#header{
+		padding-top:40px; 
+		height:114px;
+	}
+	body{
+		padding:20px 0px;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#page {
+		width:1000px;
+		margin:auto;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#page-wrapper {
+		width:1000px;
+		-webkit-box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+		box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, .05);
+		margin:auto;
+		-webkit-transition-property: all;
+		-moz-transition-property: all;
+		transition-property: all;
+		-webkit-transition-duration: 0.5s, 0.5s;
+		-moz-transition-duration: 0.5s, 0.5s;
+		transition-duration: 0.5s, 0.5s; 
+		-webkit-transition-timing function: linear, ease-in-out;
+		-moz-transition-timing function: linear, ease-in-out; 
+		transition-timing-function: linear, ease-in-out;
+	}
+	#welcome {
+		padding: 20px 20px 30px 20px;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	#main-menu {
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	#headertext {
+		padding-right:5%;
+	}
+	.lehigh-creds p{
+		font-size: 12px;
+		line-height:20px;
+	}
+	#title { 
+	    width:350px;
+}
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}

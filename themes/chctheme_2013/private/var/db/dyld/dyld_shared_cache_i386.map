@@ -1,0 +1,1051 @@
+mapping EX  167MB 0x90000000 -> 0x9A768000
+mapping RW   13MB 0xAC000000 -> 0xACDD5000
+mapping RO   30MB 0x9A768000 -> 0x9C65F000
+linkedit    419KB 0x9A874000 -> 0x9A8DCED0 weak binding info
+linkedit   3508KB 0x9A8DCED0 -> 0x9AC4A2AE export info
+linkedit    351KB 0x9AC4A2AE -> 0x9ACA2126 binding info
+linkedit   1614KB 0x9ACA2126 -> 0x9AE35AA2 lazy binding info
+linkedit      6MB 0x9AE35AA2 -> 0x9B48051A non-dyld symbol table size
+linkedit    594KB 0x9B480518 -> 0x9B515038 non-dyld functions starts size
+linkedit    594KB 0x9B515038 -> 0x9B5A9B58 non-dyld data-in-code info size
+linkedit    604KB 0x9B5A9B58 -> 0x9B640C10 non-dyld indirect symbol table size
+linkedit     16MB 0x9B640C10 -> 0x9C65EDA6 non-dyld string pool
+/System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/FindMyMac
+	          __TEXT 0x90007000 -> 0x9000C000
+	          __DATA 0xAC001000 -> 0xAC002000
+	          __OBJC 0xAC002000 -> 0xAC003000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libcompiler_rt.dylib
+	          __TEXT 0x9000C000 -> 0x90010000
+	          __DATA 0xAC003000 -> 0xAC004000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libunc.dylib
+	          __TEXT 0x90010000 -> 0x90012000
+	          __DATA 0xAC004000 -> 0xAC005000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin
+	          __TEXT 0x90012000 -> 0x90015000
+	          __DATA 0xAC005000 -> 0xAC006000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/AOSMigrate.framework/Versions/A/AOSMigrate
+	          __TEXT 0x90015000 -> 0x90016000
+	          __DATA 0xAC006000 -> 0xAC007000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/DataDetectorsCore
+	          __TEXT 0x90016000 -> 0x9007B000
+	          __DATA 0xAC007000 -> 0xAC00E000
+	          __OBJC 0xAC00E000 -> 0xAC013000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/DirectoryService.framework/Versions/A/DirectoryService
+	          __TEXT 0x9007B000 -> 0x90087000
+	          __DATA 0xAC013000 -> 0xAC014000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libz.1.dylib
+/usr/lib/libz.1.2.5.dylib
+	          __TEXT 0x90087000 -> 0x90096000
+	          __DATA 0xAC014000 -> 0xAC015000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreSymbolication.framework/Versions/A/CoreSymbolication
+	          __TEXT 0x90096000 -> 0x90132000
+	          __DATA 0xAC015000 -> 0xAC01E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+	          __TEXT 0x90132000 -> 0x90142000
+	          __DATA 0xAC01E000 -> 0xAC01F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libpam.2.dylib
+	          __TEXT 0x90142000 -> 0x90146000
+	          __DATA 0xAC01F000 -> 0xAC020000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+	          __TEXT 0x90146000 -> 0x90150000
+	          __DATA 0xAC020000 -> 0xAC021000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGXCoreImage.A.dylib
+	          __TEXT 0x90150000 -> 0x90157000
+	          __DATA 0xAC021000 -> 0xAC022000
+	          __OBJC 0xAC022000 -> 0xAC023000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/AOSKit
+	          __TEXT 0x90157000 -> 0x90443000
+	          __DATA 0xAC023000 -> 0xAC028000
+	          __OBJC 0xAC028000 -> 0xAC02B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreUI.framework/Versions/A/CoreUI
+	          __TEXT 0x90443000 -> 0x904F8000
+	          __DATA 0xAC02B000 -> 0xAC03C000
+	          __OBJC 0xAC03C000 -> 0xAC043000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/DiscRecording.framework/Versions/A/DiscRecording
+	          __TEXT 0x904F8000 -> 0x905CF000
+	          __DATA 0xAC043000 -> 0xAC04C000
+	          __OBJC 0xAC04C000 -> 0xAC050000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+	          __TEXT 0x905CF000 -> 0x9068E000
+	          __DATA 0xAC050000 -> 0xAC056000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/PDFKit.framework/Versions/A/PDFKit
+	          __TEXT 0x9068E000 -> 0x90717000
+	          __DATA 0xAC056000 -> 0xAC05A000
+	          __OBJC 0xAC05A000 -> 0xAC068000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libxslt.1.dylib
+	          __TEXT 0x90717000 -> 0x90741000
+	          __DATA 0xAC068000 -> 0xAC069000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/FileSync.framework/Versions/A/FileSync
+	          __TEXT 0x90741000 -> 0x90750000
+	          __DATA 0xAC069000 -> 0xAC06B000
+	          __OBJC 0xAC06B000 -> 0xAC06D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontParser.dylib
+	          __TEXT 0x90750000 -> 0x9084F000
+	          __DATA 0xAC06D000 -> 0xAC082000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/SecurityInterface.framework/Versions/A/SecurityInterface
+	          __TEXT 0x9084F000 -> 0x9087F000
+	          __DATA 0xAC082000 -> 0xAC084000
+	          __OBJC 0xAC084000 -> 0xAC08A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreAVCHD.framework/Versions/A/CoreAVCHD
+	          __TEXT 0x9087F000 -> 0x90998000
+	          __DATA 0xAC08A000 -> 0xAC095000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libauto.dylib
+	          __TEXT 0x90998000 -> 0x909DB000
+	          __DATA 0xAC095000 -> 0xAC096000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore
+	          __TEXT 0x909DB000 -> 0x90B54000
+	          __DATA 0xAC096000 -> 0xAC0A0000
+	          __OBJC 0xAC0A0000 -> 0xAC0AA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/MediaKit.framework/Versions/A/MediaKit
+	          __TEXT 0x90B54000 -> 0x90B95000
+	          __DATA 0xAC0AA000 -> 0xAC0AD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/Versions/A/ImageKit
+	          __TEXT 0x90B95000 -> 0x90E03000
+	          __DATA 0xAC0AD000 -> 0xAC13C000
+	          __OBJC 0xAC13C000 -> 0xAC179000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+	          __TEXT 0x90E03000 -> 0x90E80000
+	          __DATA 0xAC179000 -> 0xAC192000
+	          __OBJC 0xAC192000 -> 0xAC193000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/RemoteViewServices.framework/Versions/A/RemoteViewServices
+	          __TEXT 0x90E80000 -> 0x90EC3000
+	          __DATA 0xAC193000 -> 0xAC197000
+	          __OBJC 0xAC197000 -> 0xAC19D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libUniversalAccess.dylib
+	          __TEXT 0x90EC3000 -> 0x90EC6000
+	          __DATA 0xAC19D000 -> 0xAC19E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/ImageCaptureCore
+	          __TEXT 0x90EC6000 -> 0x90F21000
+	          __DATA 0xAC19E000 -> 0xAC1A3000
+	          __OBJC 0xAC1A3000 -> 0xAC1AB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+	          __TEXT 0x90F21000 -> 0x91227000
+	          __DATA 0xAC1AB000 -> 0xAC1B8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreData.framework/Versions/A/CoreData
+	          __TEXT 0x91227000 -> 0x9143F000
+	          __DATA 0xAC1B8000 -> 0xAC1C4000
+	          __OBJC 0xAC1C4000 -> 0xAC1E5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Ubiquity.framework/Versions/A/Ubiquity
+	          __TEXT 0x9143F000 -> 0x9145F000
+	          __DATA 0xAC1E5000 -> 0xAC1E7000
+	          __OBJC 0xAC1E7000 -> 0xAC1E8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/CoreMediaIO
+	          __TEXT 0x9145F000 -> 0x914B0000
+	          __DATA 0xAC1E8000 -> 0xAC1EA000
+	          __OBJC 0xAC1EA000 -> 0xAC1EB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libresolv.9.dylib
+	          __TEXT 0x914B0000 -> 0x914CE000
+	          __DATA 0xAC1EB000 -> 0xAC1ED000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/QuickTime/QuickTimeH264.component/Contents/MacOS/QuickTimeH264
+	          __TEXT 0x914CE000 -> 0x914D1000
+	          __DATA 0xAC1ED000 -> 0xAC1EE000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libkeymgr.dylib
+	          __TEXT 0x914D1000 -> 0x914D2000
+	          __DATA 0xAC1EE000 -> 0xAC1EF000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/CoreServices/RawCamera.bundle/Contents/MacOS/RawCamera
+	          __TEXT 0x914D2000 -> 0x9175F000
+	          __DATA 0xAC1EF000 -> 0xAC20A000
+	          __OBJC 0xAC20A000 -> 0xAC20D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/QuickTime/QuickTimeComponents.component/Contents/MacOS/QuickTimeComponents
+	          __TEXT 0x9175F000 -> 0x92498000
+	          __DATA 0xAC20D000 -> 0xAC380000
+	          __OBJC 0xAC380000 -> 0xAC381000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreWiFi.framework/Versions/A/CoreWiFi
+	          __TEXT 0x92498000 -> 0x924DA000
+	          __DATA 0xAC381000 -> 0xAC386000
+	          __OBJC 0xAC386000 -> 0xAC38C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_c.dylib
+	          __TEXT 0x924DA000 -> 0x92598000
+	          __DATA 0xAC38C000 -> 0xAC398000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/AGL.framework/Versions/A/AGL
+	          __TEXT 0x92598000 -> 0x925A0000
+	          __DATA 0xAC398000 -> 0xAC399000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib
+	          __TEXT 0x925A0000 -> 0x925A7000
+	          __DATA 0xAC399000 -> 0xAC39A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/InternetAccounts.framework/Versions/A/InternetAccounts
+	          __TEXT 0x925A7000 -> 0x925DD000
+	          __DATA 0xAC39A000 -> 0xAC39D000
+	          __OBJC 0xAC39D000 -> 0xAC3A3000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CrashReporterSupport.framework/Versions/A/CrashReporterSupport
+	          __TEXT 0x925DD000 -> 0x925EA000
+	          __DATA 0xAC3A3000 -> 0xAC3A5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenDirectory.framework/Versions/A/OpenDirectory
+	          __TEXT 0x925EA000 -> 0x925EF000
+	          __DATA 0xAC3A5000 -> 0xAC3A6000
+	          __OBJC 0xAC3A6000 -> 0xAC3A7000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libCRFSuite.dylib
+	          __TEXT 0x925EF000 -> 0x9260D000
+	          __DATA 0xAC3A7000 -> 0xAC3A8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreMedia.framework/Versions/A/CoreMedia
+	          __TEXT 0x9260D000 -> 0x92655000
+	          __DATA 0xAC3A8000 -> 0xAC3AB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libDiagnosticMessagesClient.dylib
+	          __TEXT 0x92655000 -> 0x92657000
+	          __DATA 0xAC3AB000 -> 0xAC3AC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/FamilyControls.framework/Versions/A/FamilyControls
+	          __TEXT 0x92657000 -> 0x9267D000
+	          __DATA 0xAC3AC000 -> 0xAC3AF000
+	          __OBJC 0xAC3AF000 -> 0xAC3B2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DiskManagement.framework/Versions/A/DiskManagement
+	          __TEXT 0x9267D000 -> 0x926C3000
+	          __DATA 0xAC3B2000 -> 0xAC3B7000
+	          __OBJC 0xAC3B7000 -> 0xAC3BA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libunwind.dylib
+	          __TEXT 0x926C3000 -> 0x926CB000
+	          __DATA 0xAC3BA000 -> 0xAC3BB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/IOSurface.framework/Versions/A/IOSurface
+	          __TEXT 0x926CB000 -> 0x926D0000
+	          __DATA 0xAC3BB000 -> 0xAC3BC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libsasl2.2.dylib
+	          __TEXT 0x926D0000 -> 0x926E1000
+	          __DATA 0xAC3BC000 -> 0xAC3BD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libType1Scaler.dylib
+	          __TEXT 0x926E1000 -> 0x9275E000
+	          __DATA 0xAC3BD000 -> 0xAC3C1000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib
+	          __TEXT 0x9275E000 -> 0x92763000
+	          __DATA 0xAC3C1000 -> 0xAC3C2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CorePDF.framework/Versions/A/CorePDF
+	          __TEXT 0x92763000 -> 0x927DD000
+	          __DATA 0xAC3C2000 -> 0xAC3D0000
+	          __OBJC 0xAC3D0000 -> 0xAC3D8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/ChunkingLibrary.framework/Versions/A/ChunkingLibrary
+	          __TEXT 0x927DD000 -> 0x927FE000
+	          __DATA 0xAC3D8000 -> 0xAC3DA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_blocks.dylib
+	          __TEXT 0x927FE000 -> 0x927FF000
+	          __DATA 0xAC3DA000 -> 0xAC3DB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/QuickLookUI
+	          __TEXT 0x927FF000 -> 0x928F4000
+	          __DATA 0xAC3DB000 -> 0xAC3E4000
+	          __OBJC 0xAC3E4000 -> 0xAC3FC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate
+	          __TEXT 0x928F4000 -> 0x928F5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libkxld.dylib
+	          __TEXT 0x928F5000 -> 0x92902000
+	          __DATA 0xAC3FC000 -> 0xAC3FD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation
+	          __TEXT 0x92902000 -> 0x9297D000
+	          __DATA 0xAC3FD000 -> 0xAC406000
+	          __OBJC 0xAC406000 -> 0xAC40A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libobjc.A.dylib
+	          __TEXT 0x9297D000 -> 0x92A8B000
+	          __DATA 0xAC40A000 -> 0xAC410000
+	          __OBJC 0xAC410000 -> 0xAC411000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Shortcut.framework/Versions/A/Shortcut
+	          __TEXT 0x92A8B000 -> 0x92AB7000
+	          __DATA 0xAC411000 -> 0xAC413000
+	          __OBJC 0xAC413000 -> 0xAC418000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libc++abi.dylib
+	          __TEXT 0x92AB7000 -> 0x92ADA000
+	          __DATA 0xAC418000 -> 0xAC41D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib
+	          __TEXT 0x92ADA000 -> 0x92BE6000
+	          __DATA 0xAC41D000 -> 0xAC420000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/QuickTime/QuickTimeMPEG4.component/Contents/MacOS/QuickTimeMPEG4
+	          __TEXT 0x92BE6000 -> 0x92C9E000
+	          __DATA 0xAC420000 -> 0xAC425000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Apple80211
+	          __TEXT 0x92C9E000 -> 0x92CC9000
+	          __DATA 0xAC425000 -> 0xAC428000
+	          __OBJC 0xAC428000 -> 0xAC429000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Libraries/libUAPreferences.dylib
+	          __TEXT 0x92CC9000 -> 0x92CCB000
+	          __DATA 0xAC429000 -> 0xAC42A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libcurl.4.dylib
+	          __TEXT 0x92CCB000 -> 0x92D0E000
+	          __DATA 0xAC42A000 -> 0xAC42C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/JavaScriptCore.framework/Versions/A/JavaScriptCore
+	          __TEXT 0x92D0E000 -> 0x92F68000
+	          __DATA 0xAC42C000 -> 0xAC444000
+	          __OBJC 0xAC444000 -> 0xAC445000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+	          __TEXT 0x92F68000 -> 0x92FAD000
+	          __DATA 0xAC445000 -> 0xAC446000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Frameworks/CommerceCore.framework/Versions/A/CommerceCore
+	          __TEXT 0x92FAD000 -> 0x92FB7000
+	          __DATA 0xAC446000 -> 0xAC447000
+	          __OBJC 0xAC447000 -> 0xAC448000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/NetAuth.framework/Versions/A/NetAuth
+	          __TEXT 0x92FB7000 -> 0x92FC4000
+	          __DATA 0xAC448000 -> 0xAC449000
+	          __OBJC 0xAC449000 -> 0xAC44A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/EAP8021X.framework/Versions/A/EAP8021X
+	          __TEXT 0x92FC4000 -> 0x92FEA000
+	          __DATA 0xAC44A000 -> 0xAC44C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libCoreStorage.dylib
+	          __TEXT 0x92FEA000 -> 0x9308C000
+	          __DATA 0xAC44C000 -> 0xAC44E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL
+	          __TEXT 0x9308C000 -> 0x9309B000
+	          __DATA 0xAC44E000 -> 0xAC44F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+	          __TEXT 0x9309B000 -> 0x930AC000
+	          __DATA 0xAC44F000 -> 0xAC450000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/login.framework/Versions/A/login
+	          __TEXT 0x930AC000 -> 0x930B8000
+	          __DATA 0xAC450000 -> 0xAC452000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+	          __TEXT 0x930B8000 -> 0x932A1000
+	          __DATA 0xAC452000 -> 0xAC46F000
+	          __OBJC 0xAC46F000 -> 0xAC47B000
+	       __UNICODE 0x9A768000 -> 0x9A7F0000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libodfde.dylib
+	          __TEXT 0x932A1000 -> 0x932A3000
+	          __DATA 0xAC47B000 -> 0xAC47C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+	          __TEXT 0x932A3000 -> 0x93E60000
+	          __DATA 0xAC47C000 -> 0xAC4CD000
+	          __OBJC 0xAC4CD000 -> 0xAC58F000
+	         __IMAGE 0x9A7F0000 -> 0x9A874000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libATSServer.dylib
+	          __TEXT 0x93E60000 -> 0x93EFE000
+	          __DATA 0xAC58F000 -> 0xAC593000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+	          __TEXT 0x93EFE000 -> 0x93FA9000
+	          __DATA 0xAC593000 -> 0xAC59B000
+	          __OBJC 0xAC59B000 -> 0xAC59C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/A/AppleFSCompression
+	          __TEXT 0x93FA9000 -> 0x93FB7000
+	          __DATA 0xAC59C000 -> 0xAC59D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+	          __TEXT 0x93FB7000 -> 0x94013000
+	          __DATA 0xAC59D000 -> 0xAC5A1000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/PreferencePanes.framework/Versions/A/PreferencePanes
+	          __TEXT 0x94013000 -> 0x9402D000
+	          __DATA 0xAC5A1000 -> 0xAC5A3000
+	          __OBJC 0xAC5A3000 -> 0xAC5A6000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreMediaAuthoring.framework/Versions/A/CoreMediaAuthoring
+	          __TEXT 0x9402D000 -> 0x94045000
+	          __DATA 0xAC5A6000 -> 0xAC5A9000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libcorecrypto.dylib
+	          __TEXT 0x94045000 -> 0x94092000
+	          __DATA 0xAC5A9000 -> 0xAC5AB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Bom.framework/Versions/A/Bom
+	          __TEXT 0x94092000 -> 0x940D2000
+	          __DATA 0xAC5AB000 -> 0xAC5AD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+	          __TEXT 0x940D2000 -> 0x94139000
+	          __DATA 0xAC5AD000 -> 0xAC5B1000
+	          __OBJC 0xAC5B1000 -> 0xAC5B2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+	          __TEXT 0x94139000 -> 0x941AF000
+	          __DATA 0xAC5B2000 -> 0xAC5B6000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libdispatch.dylib
+	          __TEXT 0x941AF000 -> 0x941C2000
+	          __DATA 0xAC5B6000 -> 0xAC5BA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCSync.A.dylib
+	          __TEXT 0x941C2000 -> 0x941CD000
+	          __DATA 0xAC5BA000 -> 0xAC5BB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_network.dylib
+	          __TEXT 0x941CD000 -> 0x941DC000
+	          __DATA 0xAC5BB000 -> 0xAC5BC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+	          __TEXT 0x941DC000 -> 0x94366000
+	          __DATA 0xAC5BC000 -> 0xAC5BF000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_kernel.dylib
+	          __TEXT 0x94366000 -> 0x94381000
+	          __DATA 0xAC5BF000 -> 0xAC5C1000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libdnsinfo.dylib
+	          __TEXT 0x94381000 -> 0x94383000
+	          __DATA 0xAC5C1000 -> 0xAC5C2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libSystem.B.dylib
+	          __TEXT 0x94383000 -> 0x94384000
+	          __DATA 0xAC5C2000 -> 0xAC5C3000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/LoginUIKit.framework/Versions/A/LoginUIKit
+	          __TEXT 0x94384000 -> 0x943C1000
+	          __DATA 0xAC5C3000 -> 0xAC5C5000
+	          __OBJC 0xAC5C5000 -> 0xAC5CE000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+	          __TEXT 0x943C1000 -> 0x944FD000
+	          __DATA 0xAC5CE000 -> 0xAC5D0000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzComposer.framework/Versions/A/QuartzComposer
+	          __TEXT 0x944FD000 -> 0x9472E000
+	          __DATA 0xAC5D0000 -> 0xAC5E0000
+	          __OBJC 0xAC5E0000 -> 0xAC611000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Suggestions.framework/Versions/A/Suggestions
+	          __TEXT 0x9472E000 -> 0x94786000
+	          __DATA 0xAC611000 -> 0xAC615000
+	          __OBJC 0xAC615000 -> 0xAC61E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/PhoneNumbers.framework/Versions/A/PhoneNumbers
+	          __TEXT 0x94786000 -> 0x9478D000
+	          __DATA 0xAC61E000 -> 0xAC61F000
+	          __OBJC 0xAC61F000 -> 0xAC620000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib
+	          __TEXT 0x9478D000 -> 0x947AA000
+	          __DATA 0xAC620000 -> 0xAC621000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_info.dylib
+	          __TEXT 0x947AA000 -> 0x947D7000
+	          __DATA 0xAC621000 -> 0xAC623000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/MediaControlSender.framework/Versions/A/MediaControlSender
+	          __TEXT 0x947D7000 -> 0x9490B000
+	          __DATA 0xAC623000 -> 0xAC646000
+	          __OBJC 0xAC646000 -> 0xAC647000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QTKit.framework/Versions/A/QTKit
+	          __TEXT 0x9490B000 -> 0x94A69000
+	          __DATA 0xAC647000 -> 0xAC653000
+	          __OBJC 0xAC653000 -> 0xAC674000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+	          __TEXT 0x94A69000 -> 0x94A7F000
+	          __DATA 0xAC674000 -> 0xAC678000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/FaceCoreLight.framework/Versions/A/FaceCoreLight
+	          __TEXT 0x94A7F000 -> 0x94E9D000
+	          __DATA 0xAC678000 -> 0xAC879000
+	          __OBJC 0xAC879000 -> 0xAC87A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/TCC.framework/Versions/A/TCC
+	          __TEXT 0x94E9D000 -> 0x94EA1000
+	          __DATA 0xAC87A000 -> 0xAC87B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_sandbox.dylib
+	          __TEXT 0x94EA1000 -> 0x94EA3000
+	          __DATA 0xAC87B000 -> 0xAC87C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libquit.dylib
+	          __TEXT 0x94EA3000 -> 0x94EA5000
+	          __DATA 0xAC87C000 -> 0xAC87D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libremovefile.dylib
+	          __TEXT 0x94EA5000 -> 0x94EA7000
+	          __DATA 0xAC87D000 -> 0xAC87E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libsqlite3.dylib
+	          __TEXT 0x94EA7000 -> 0x94FA0000
+	          __DATA 0xAC87E000 -> 0xAC880000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+	          __TEXT 0x94FA0000 -> 0x95033000
+	          __DATA 0xAC880000 -> 0xAC881000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+	          __TEXT 0x95033000 -> 0x9509C000
+	          __DATA 0xAC881000 -> 0xAC882000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libRIP.A.dylib
+	          __TEXT 0x9509C000 -> 0x950C6000
+	          __DATA 0xAC882000 -> 0xAC883000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Backup.framework/Versions/A/Backup
+	          __TEXT 0x950C6000 -> 0x9519B000
+	          __DATA 0xAC883000 -> 0xAC889000
+	          __OBJC 0xAC889000 -> 0xAC88F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libcups.2.dylib
+	          __TEXT 0x9519B000 -> 0x951DE000
+	          __DATA 0xAC88F000 -> 0xAC892000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/AppleVA.framework/Versions/A/AppleVA
+	          __TEXT 0x951DE000 -> 0x9523A000
+	          __DATA 0xAC892000 -> 0xAC894000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices
+	          __TEXT 0x9523A000 -> 0x9523B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/GSS.framework/Versions/A/GSS
+	          __TEXT 0x9523B000 -> 0x9526F000
+	          __DATA 0xAC894000 -> 0xAC898000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ServiceManagement.framework/Versions/A/ServiceManagement
+	          __TEXT 0x9526F000 -> 0x9527A000
+	          __DATA 0xAC898000 -> 0xAC899000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libstdc++.6.dylib
+/usr/lib/libstdc++.6.0.9.dylib
+	          __TEXT 0x9527A000 -> 0x952DF000
+	          __DATA 0xAC899000 -> 0xAC89E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio
+	          __TEXT 0x952DF000 -> 0x9533E000
+	          __DATA 0xAC89E000 -> 0xAC8A0000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices
+	          __TEXT 0x9533E000 -> 0x9533F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Admin.framework/Versions/A/Admin
+	          __TEXT 0x9533F000 -> 0x9536E000
+	          __DATA 0xAC8A0000 -> 0xAC8A3000
+	          __OBJC 0xAC8A3000 -> 0xAC8A8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_notify.dylib
+	          __TEXT 0x9536E000 -> 0x95379000
+	          __DATA 0xAC8A8000 -> 0xAC8A9000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libicucore.A.dylib
+	          __TEXT 0x95379000 -> 0x95536000
+	          __DATA 0xAC8A9000 -> 0xAC8BB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib
+	          __TEXT 0x95536000 -> 0x95586000
+	          __DATA 0xAC8BB000 -> 0xAC8BD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/ISSupport.framework/Versions/A/ISSupport
+	          __TEXT 0x95586000 -> 0x955ED000
+	          __DATA 0xAC8BD000 -> 0xAC8C3000
+	          __OBJC 0xAC8C3000 -> 0xAC8CC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+	          __TEXT 0x955ED000 -> 0x95685000
+	          __DATA 0xAC8CC000 -> 0xAC8D4000
+	          __OBJC 0xAC8D4000 -> 0xAC8D7000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+	          __TEXT 0x95685000 -> 0x95929000
+	          __DATA 0xAC8D7000 -> 0xAC8E2000
+	          __OBJC 0xAC8E2000 -> 0xAC8FA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CommonAuth.framework/Versions/A/CommonAuth
+	          __TEXT 0x95929000 -> 0x95933000
+	          __DATA 0xAC8FA000 -> 0xAC8FB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistryServer.dylib
+	          __TEXT 0x95933000 -> 0x9598A000
+	          __DATA 0xAC8FB000 -> 0xAC8FF000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/PerformanceAnalysis
+	          __TEXT 0x9598A000 -> 0x959AF000
+	          __DATA 0xAC8FF000 -> 0xAC901000
+	          __OBJC 0xAC901000 -> 0xAC906000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa
+	          __TEXT 0x959AF000 -> 0x959B0000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo
+	          __TEXT 0x959B0000 -> 0x959D6000
+	          __DATA 0xAC906000 -> 0xAC909000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libScreenReader.dylib
+	          __TEXT 0x959D6000 -> 0x959D8000
+	          __DATA 0xAC909000 -> 0xAC90A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/liblaunch.dylib
+	          __TEXT 0x959D8000 -> 0x959E0000
+	          __DATA 0xAC90A000 -> 0xAC90B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib
+	          __TEXT 0x959E0000 -> 0x9625E000
+	          __DATA 0xAC90B000 -> 0xACA21000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/CoreServices/RawCamera.bundle/Contents/Resources/MetadataLib.dylib
+	          __TEXT 0x9625E000 -> 0x96260000
+	          __DATA 0xACA21000 -> 0xACA22000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libOpenScriptingUtil.dylib
+	          __TEXT 0x96260000 -> 0x96261000
+	          __DATA 0xACA22000 -> 0xACA23000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/MediaToolbox.framework/Versions/A/MediaToolbox
+	          __TEXT 0x96261000 -> 0x965F5000
+	          __DATA 0xACA23000 -> 0xACA38000
+	          __OBJC 0xACA38000 -> 0xACA39000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration
+	          __TEXT 0x965F5000 -> 0x965FF000
+	          __DATA 0xACA39000 -> 0xACA3A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+	          __TEXT 0x965FF000 -> 0x96645000
+	          __DATA 0xACA3A000 -> 0xACA3E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+	          __TEXT 0x96645000 -> 0x966E6000
+	          __DATA 0xACA3E000 -> 0xACA40000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libTrueTypeScaler.dylib
+	          __TEXT 0x966E6000 -> 0x9671C000
+	          __DATA 0xACA40000 -> 0xACA41000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+	          __TEXT 0x9671C000 -> 0x96720000
+	          __DATA 0xACA41000 -> 0xACA42000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libutil.dylib
+/usr/lib/libutil1.0.dylib
+	          __TEXT 0x96720000 -> 0x96724000
+	          __DATA 0xACA42000 -> 0xACA43000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzFilters.framework/Versions/A/QuartzFilters
+	          __TEXT 0x96724000 -> 0x9674A000
+	          __DATA 0xACA43000 -> 0xACA45000
+	          __OBJC 0xACA45000 -> 0xACA4C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DebugSymbols.framework/Versions/A/DebugSymbols
+	          __TEXT 0x9674A000 -> 0x96781000
+	          __DATA 0xACA4C000 -> 0xACA4E000
+	          __OBJC 0xACA4E000 -> 0xACA4F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_m.dylib
+	          __TEXT 0x96781000 -> 0x967AF000
+	          __DATA 0xACA4F000 -> 0xACA50000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DisplayServices.framework/Versions/A/DisplayServices
+	          __TEXT 0x967AF000 -> 0x967BA000
+	          __DATA 0xACA50000 -> 0xACA51000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/CoreWLANKit
+	          __TEXT 0x967BA000 -> 0x967FA000
+	          __DATA 0xACA51000 -> 0xACA53000
+	          __OBJC 0xACA53000 -> 0xACA59000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+	          __TEXT 0x967FA000 -> 0x96810000
+	          __DATA 0xACA59000 -> 0xACA5C000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/liblangid.dylib
+	          __TEXT 0x96810000 -> 0x96812000
+	          __DATA 0xACA5C000 -> 0xACA5D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+	          __TEXT 0x96812000 -> 0x9686D000
+	          __DATA 0xACA5D000 -> 0xACA60000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libcsfde.dylib
+	          __TEXT 0x9686D000 -> 0x96878000
+	          __DATA 0xACA60000 -> 0xACA61000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/ApplePushService.framework/Versions/A/ApplePushService
+	          __TEXT 0x96878000 -> 0x96882000
+	          __DATA 0xACA61000 -> 0xACA62000
+	          __OBJC 0xACA62000 -> 0xACA63000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Extensions/GeForceGLDriver.bundle/Contents/MacOS/libclh.dylib
+	          __TEXT 0x96882000 -> 0x9701E000
+	          __DATA 0xACA63000 -> 0xACAC8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Heimdal.framework/Versions/A/Heimdal
+	          __TEXT 0x9701E000 -> 0x9708E000
+	          __DATA 0xACAC8000 -> 0xACAD1000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+	          __TEXT 0x9708E000 -> 0x97091000
+	          __DATA 0xACAD1000 -> 0xACAD2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Versions/A/TrustEvaluationAgent
+	          __TEXT 0x97091000 -> 0x97093000
+	          __DATA 0xACAD2000 -> 0xACAD3000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libcache.dylib
+	          __TEXT 0x97093000 -> 0x97098000
+	          __DATA 0xACAD3000 -> 0xACAD4000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork
+	          __TEXT 0x97098000 -> 0x971E7000
+	          __DATA 0xACAD4000 -> 0xACAEA000
+	          __OBJC 0xACAEA000 -> 0xACAEB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libbz2.1.0.dylib
+	          __TEXT 0x971E7000 -> 0x971F4000
+	          __DATA 0xACAEB000 -> 0xACAEC000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libxml2.2.dylib
+	          __TEXT 0x971F4000 -> 0x972DE000
+	          __DATA 0xACAEC000 -> 0xACAF2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreWLAN.framework/Versions/A/CoreWLAN
+	          __TEXT 0x972DE000 -> 0x97329000
+	          __DATA 0xACAF2000 -> 0xACAF6000
+	          __OBJC 0xACAF6000 -> 0xACAF9000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libdyld.dylib
+	          __TEXT 0x97329000 -> 0x9732C000
+	          __DATA 0xACAF9000 -> 0xACAFA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+	          __TEXT 0x9732C000 -> 0x97384000
+	          __DATA 0xACAFA000 -> 0xACAFF000
+	          __OBJC 0xACAFF000 -> 0xACB00000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv
+	          __TEXT 0x97384000 -> 0x974A1000
+	          __DATA 0xACB00000 -> 0xACB05000
+	          __OBJC 0xACB05000 -> 0xACB06000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib
+	          __TEXT 0x974A1000 -> 0x974A4000
+	          __DATA 0xACB06000 -> 0xACB07000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontRegistry.dylib
+	          __TEXT 0x974A4000 -> 0x974F3000
+	          __DATA 0xACB07000 -> 0xACB0B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreAUC.framework/Versions/A/CoreAUC
+	          __TEXT 0x974F3000 -> 0x97B80000
+	          __DATA 0xACB0B000 -> 0xACB16000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/Symbolication.framework/Versions/A/Symbolication
+	          __TEXT 0x97B80000 -> 0x97BDB000
+	          __DATA 0xACB16000 -> 0xACB1A000
+	          __OBJC 0xACB1A000 -> 0xACB23000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/HelpData.framework/Versions/A/HelpData
+	          __TEXT 0x97BDB000 -> 0x97BE9000
+	          __DATA 0xACB23000 -> 0xACB24000
+	          __OBJC 0xACB24000 -> 0xACB26000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/QuickTime/QuickTimeImporters.component/Contents/MacOS/QuickTimeImporters
+	          __TEXT 0x97BE9000 -> 0x97CFA000
+	          __DATA 0xACB26000 -> 0xACB2F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QuickLook.framework/Versions/A/QuickLook
+	          __TEXT 0x97CFA000 -> 0x97D54000
+	          __DATA 0xACB2F000 -> 0xACB37000
+	          __OBJC 0xACB37000 -> 0xACB38000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libsystem_dnssd.dylib
+	          __TEXT 0x97D54000 -> 0x97D5C000
+	          __DATA 0xACB38000 -> 0xACB39000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/VideoToolbox.framework/Versions/A/VideoToolbox
+	          __TEXT 0x97D5C000 -> 0x98159000
+	          __DATA 0xACB39000 -> 0xACB9E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+	          __TEXT 0x98159000 -> 0x9815A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit
+	          __TEXT 0x9815A000 -> 0x9815B000
+	          __DATA 0xACB9E000 -> 0xACB9F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+	          __TEXT 0x9815B000 -> 0x981E1000
+	          __DATA 0xACB9F000 -> 0xACBA5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib
+	          __TEXT 0x981E1000 -> 0x981E4000
+	          __DATA 0xACBA5000 -> 0xACBA6000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox
+	          __TEXT 0x981E4000 -> 0x9833D000
+	          __DATA 0xACBA6000 -> 0xACBB0000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenCL.framework/Versions/A/OpenCL
+	          __TEXT 0x9833D000 -> 0x98386000
+	          __DATA 0xACBB0000 -> 0xACBB6000
+	          __OBJC 0xACBB6000 -> 0xACBB7000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libcrypto.0.9.8.dylib
+	          __TEXT 0x98386000 -> 0x98468000
+	          __DATA 0xACBB7000 -> 0xACBCD000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos
+	          __TEXT 0x98468000 -> 0x98482000
+	          __DATA 0xACBCD000 -> 0xACBCF000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QuickTime.framework/Versions/A/QuickTime
+	          __TEXT 0x98482000 -> 0x986FF000
+	          __DATA 0xACBCF000 -> 0xACBDA000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/AddressBook.framework/Versions/A/AddressBook
+	          __TEXT 0x986FF000 -> 0x9899A000
+	          __DATA 0xACBDA000 -> 0xACBF9000
+	          __OBJC 0xACBF9000 -> 0xACC51000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Quartz.framework/Versions/A/Quartz
+	          __TEXT 0x9899A000 -> 0x9899B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libxpc.dylib
+	          __TEXT 0x9899B000 -> 0x989B9000
+	          __DATA 0xACC51000 -> 0xACC53000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/GraphKit.framework/Versions/A/GraphKit
+	          __TEXT 0x989B9000 -> 0x98A05000
+	          __DATA 0xACC53000 -> 0xACC56000
+	          __OBJC 0xACC56000 -> 0xACC59000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+	          __TEXT 0x98A05000 -> 0x98DE9000
+	          __DATA 0xACC59000 -> 0xACC7B000
+	          __OBJC 0xACC7B000 -> 0xACC7F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+	          __TEXT 0x98DE9000 -> 0x98E52000
+	          __DATA 0xACC7F000 -> 0xACC83000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/GenerationalStorage
+	          __TEXT 0x98E52000 -> 0x98E6A000
+	          __DATA 0xACC83000 -> 0xACC84000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CoreServicesInternal.framework/Versions/A/CoreServicesInternal
+	          __TEXT 0x98E6A000 -> 0x98E98000
+	          __DATA 0xACC84000 -> 0xACC87000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+	          __TEXT 0x98E98000 -> 0x98E9F000
+	          __DATA 0xACC87000 -> 0xACC88000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libtidy.A.dylib
+	          __TEXT 0x98E9F000 -> 0x98ED0000
+	          __DATA 0xACC88000 -> 0xACC8D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration
+	          __TEXT 0x98ED0000 -> 0x98F1F000
+	          __DATA 0xACC8D000 -> 0xACC94000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+	          __TEXT 0x98F1F000 -> 0x98FB8000
+	          __DATA 0xACC94000 -> 0xACC9E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libmacho.dylib
+	          __TEXT 0x98FB8000 -> 0x98FBD000
+	          __DATA 0xACC9E000 -> 0xACC9F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit
+	          __TEXT 0x98FBD000 -> 0x99336000
+	          __DATA 0xACC9F000 -> 0xACCBA000
+	          __OBJC 0xACCBA000 -> 0xACCE5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/vecLib.framework/Versions/A/vecLib
+	          __TEXT 0x99336000 -> 0x99337000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+	          __TEXT 0x99337000 -> 0x99656000
+	          __DATA 0xACCE5000 -> 0xACD02000
+	          __OBJC 0xACD02000 -> 0xACD42000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/CaptiveNetwork.framework/Versions/A/CaptiveNetwork
+	          __TEXT 0x99656000 -> 0x9965C000
+	          __DATA 0xACD42000 -> 0xACD43000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+	          __TEXT 0x9965C000 -> 0x99A15000
+	          __DATA 0xACD43000 -> 0xACD48000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libquarantine.dylib
+	          __TEXT 0x99A15000 -> 0x99A17000
+	          __DATA 0xACD48000 -> 0xACD49000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libiconv.2.dylib
+	          __TEXT 0x99A17000 -> 0x99B09000
+	          __DATA 0xACD49000 -> 0xACD4A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib
+	          __TEXT 0x99B09000 -> 0x99B45000
+	          __DATA 0xACD4A000 -> 0xACD4B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libncurses.5.4.dylib
+	          __TEXT 0x99B45000 -> 0x99B76000
+	          __DATA 0xACD4B000 -> 0xACD4E000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
+	          __TEXT 0x99B76000 -> 0x99C84000
+	          __DATA 0xACD4E000 -> 0xACD5A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreText.framework/Versions/A/CoreText
+	          __TEXT 0x99C84000 -> 0x99D34000
+	          __DATA 0xACD5A000 -> 0xACD60000
+	          __OBJC 0xACD60000 -> 0xACD62000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libcopyfile.dylib
+	          __TEXT 0x99D34000 -> 0x99D3D000
+	          __DATA 0xACD62000 -> 0xACD63000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/LoginUIKit.framework/Versions/A/Frameworks/LoginUICore.framework/Versions/A/LoginUICore
+	          __TEXT 0x99D3D000 -> 0x99D41000
+	          __DATA 0xACD63000 -> 0xACD65000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+	          __TEXT 0x99D41000 -> 0x99D99000
+	          __DATA 0xACD65000 -> 0xACD6F000
+	          __OBJC 0xACD6F000 -> 0xACD71000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libbsm.0.dylib
+	          __TEXT 0x99D99000 -> 0x99DAC000
+	          __DATA 0xACD71000 -> 0xACD73000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/NetFS.framework/Versions/A/NetFS
+	          __TEXT 0x99DAC000 -> 0x99DB4000
+	          __DATA 0xACD73000 -> 0xACD74000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Carbon
+	          __TEXT 0x99DB4000 -> 0x99DB5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGXType.A.dylib
+	          __TEXT 0x99DB5000 -> 0x99DB9000
+	          __DATA 0xACD74000 -> 0xACD75000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+	          __TEXT 0x99DB9000 -> 0x99DEB000
+	          __DATA 0xACD75000 -> 0xACD79000
+	          __OBJC 0xACD79000 -> 0xACD7A000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Resources/libFontWorkerAccess.dylib
+	          __TEXT 0x99DEB000 -> 0x99DF5000
+	          __DATA 0xACD7A000 -> 0xACD7B000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libssl.0.9.8.dylib
+	          __TEXT 0x99DF5000 -> 0x99E29000
+	          __DATA 0xACD7B000 -> 0xACD7F000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+	          __TEXT 0x99E29000 -> 0x99E48000
+	          __DATA 0xACD7F000 -> 0xACD81000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib
+	          __TEXT 0x99E48000 -> 0x99E6D000
+	          __DATA 0xACD81000 -> 0xACD82000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/MultitouchSupport.framework/Versions/A/MultitouchSupport
+	          __TEXT 0x99E6D000 -> 0x99E81000
+	          __DATA 0xACD82000 -> 0xACD83000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+	          __TEXT 0x99E81000 -> 0x99E8C000
+	          __DATA 0xACD83000 -> 0xACD84000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Security.framework/Versions/A/Security
+	          __TEXT 0x99E8C000 -> 0x9A14D000
+	          __DATA 0xACD84000 -> 0xACD9D000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libc++.1.dylib
+	          __TEXT 0x9A14D000 -> 0x9A1B0000
+	          __DATA 0xACD9D000 -> 0xACDA2000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+	          __TEXT 0x9A1B0000 -> 0x9A1B5000
+	          __DATA 0xACDA2000 -> 0xACDA3000
+	          __OBJC 0xACDA3000 -> 0xACDA4000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenDirectory.framework/Versions/A/Frameworks/CFOpenDirectory.framework/Versions/A/CFOpenDirectory
+	          __TEXT 0x9A1B5000 -> 0x9A1CC000
+	          __DATA 0xACDA4000 -> 0xACDA8000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/AppleSystemInfo
+	          __TEXT 0x9A1CC000 -> 0x9A1D0000
+	          __DATA 0xACDA8000 -> 0xACDA9000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/LDAP.framework/Versions/A/LDAP
+	          __TEXT 0x9A1D0000 -> 0x9A208000
+	          __DATA 0xACDA9000 -> 0xACDAB000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics
+	          __TEXT 0x9A208000 -> 0x9A64B000
+	          __DATA 0xACDAB000 -> 0xACDC6000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib
+	          __TEXT 0x9A64B000 -> 0x9A64F000
+	          __DATA 0xACDC6000 -> 0xACDC7000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/DiskImages
+	          __TEXT 0x9A64F000 -> 0x9A74D000
+	          __DATA 0xACDC7000 -> 0xACDD2000
+	          __OBJC 0xACDD2000 -> 0xACDD3000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/libxar.1.dylib
+	          __TEXT 0x9A74D000 -> 0x9A75C000
+	          __DATA 0xACDD3000 -> 0xACDD4000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000
+/usr/lib/system/libcommonCrypto.dylib
+	          __TEXT 0x9A75C000 -> 0x9A768000
+	          __DATA 0xACDD4000 -> 0xACDD5000
+	      __LINKEDIT 0x9A874000 -> 0x9C65F000

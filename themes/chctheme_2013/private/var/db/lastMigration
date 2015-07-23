@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<string>2013-02-25 21:43:18 +0000</string>
+	<key>OverEthernet</key>
+	<false/>
+	<key>SourceName</key>
+	<string>IMRC-D</string>
+	<key>SourcePath</key>
+	<string>/Volumes/Macintosh HD/Recovered Items</string>
+	<key>SourceVersion</key>
+	<string>10.6</string>
+	<key>SourceVolumeName</key>
+	<string>Macintosh HD</string>
+</dict>
+</plist>

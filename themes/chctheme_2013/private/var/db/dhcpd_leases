@@ -1,0 +1,872 @@
+{
+	name=Android_A100001BD25C38
+	ip_address=10.0.2.122
+	hw_address=1,e8:99:c4:0:b8:6d
+	identifier=1,e8:99:c4:0:b8:6d
+	lease=0x51258efb
+}
+{
+	ip_address=10.0.2.131
+	hw_address=1,0:1f:5b:c2:6c:a9
+	identifier=1,0:1f:5b:c2:6c:a9
+	lease=0x51254d50
+}
+{
+	ip_address=10.0.2.125
+	hw_address=1,d8:a2:5e:8d:61:42
+	identifier=1,d8:a2:5e:8d:61:42
+	lease=0x51253ff0
+}
+{
+	name=iPad
+	ip_address=10.0.2.117
+	hw_address=1,4c:b1:99:6a:61:3d
+	identifier=1,4c:b1:99:6a:61:3d
+	lease=0x51251cba
+}
+{
+	ip_address=10.0.2.135
+	hw_address=1,0:1e:c2:aa:56:f1
+	identifier=1,0:1e:c2:aa:56:f1
+	lease=0x5124fe96
+}
+{
+	ip_address=10.0.2.134
+	hw_address=1,d8:0:4d:f0:79:31
+	identifier=1,d8:0:4d:f0:79:31
+	lease=0x5123953b
+}
+{
+	name=android-1055fbdf1812fa64
+	ip_address=10.0.2.133
+	hw_address=1,30:85:a9:db:1b:79
+	identifier=1,30:85:a9:db:1b:79
+	lease=0x5114065d
+}
+{
+	ip_address=10.0.2.132
+	hw_address=1,0:1f:5b:be:61:2d
+	identifier=1,0:1f:5b:be:61:2d
+	lease=0x51117c2d
+}
+{
+	name=Marks-iPhone
+	ip_address=10.0.2.130
+	hw_address=1,bc:3b:af:47:55:5
+	identifier=1,bc:3b:af:47:55:5
+	lease=0x511157d5
+}
+{
+	name=Android_359637032989655
+	ip_address=10.0.2.129
+	hw_address=1,d4:20:6d:ba:86:d2
+	identifier=1,d4:20:6d:ba:86:d2
+	lease=0x510ad5d8
+}
+{
+	name=android_8828ab21d3954d5e
+	ip_address=10.0.2.128
+	hw_address=1,ac:e8:7b:39:94:4b
+	identifier=1,ac:e8:7b:39:94:4b
+	lease=0x51085e3e
+}
+{
+	name=Sasha-Popova
+	ip_address=10.0.2.127
+	hw_address=1,14:8f:c6:80:ea:5e
+	identifier=1,14:8f:c6:80:ea:5e
+	lease=0x5123a90a
+}
+{
+	name=Dylans-iPhone
+	ip_address=10.0.2.126
+	hw_address=1,18:34:51:9c:ab:31
+	identifier=1,18:34:51:9c:ab:31
+	lease=0x511d529a
+}
+{
+	ip_address=10.0.2.124
+	hw_address=1,b8:8d:12:4:ea:c8
+	identifier=1,b8:8d:12:4:ea:c8
+	lease=0x510979e1
+}
+{
+	name=Bryans-iPod
+	ip_address=10.0.2.123
+	hw_address=1,28:37:37:ac:38:bb
+	identifier=1,28:37:37:ac:38:bb
+	lease=0x5123dd80
+}
+{
+	name=android-306365a7cfca80ec
+	ip_address=10.0.2.121
+	hw_address=1,10:bf:48:d1:dc:15
+	identifier=1,10:bf:48:d1:dc:15
+	lease=0x5106f3ec
+}
+{
+	name=D8CWT0L1
+	ip_address=10.0.2.120
+	hw_address=1,0:21:6a:7c:2d:58
+	identifier=1,0:21:6a:7c:2d:58
+	lease=0x511948b8
+}
+{
+	ip_address=10.0.2.119
+	hw_address=1,20:c9:d0:bf:4a:6d
+	identifier=1,20:c9:d0:bf:4a:6d
+	lease=0x51228ac4
+}
+{
+	ip_address=10.0.2.118
+	hw_address=1,d8:a2:5e:8f:ca:17
+	identifier=1,d8:a2:5e:8f:ca:17
+	lease=0x5112c100
+}
+{
+	ip_address=10.0.2.116
+	hw_address=1,10:40:f3:87:46:bc
+	identifier=1,10:40:f3:87:46:bc
+	lease=0x50edbd54
+}
+{
+	name=android_593772cbf387c4f6
+	ip_address=10.0.2.115
+	hw_address=1,0:16:6d:f0:2e:f4
+	identifier=1,0:16:6d:f0:2e:f4
+	lease=0x50c97f60
+}
+{
+	ip_address=10.0.2.114
+	hw_address=1,20:c9:d0:b5:c7:6b
+	identifier=1,20:c9:d0:b5:c7:6b
+	lease=0x50c912d9
+}
+{
+	ip_address=10.0.2.113
+	hw_address=1,e0:f8:47:3a:f8:e4
+	identifier=1,e0:f8:47:3a:f8:e4
+	lease=0x50c61d2a
+}
+{
+	ip_address=10.0.2.112
+	hw_address=1,fc:c7:34:ac:38:79
+	identifier=0,4b
+	lease=0x50c0f914
+}
+{
+	ip_address=10.0.2.111
+	hw_address=1,0:26:8:e4:b4:d3
+	identifier=1,0:26:8:e4:b4:d3
+	lease=0x50bf9fdc
+}
+{
+	ip_address=10.0.2.110
+	hw_address=1,0:26:8:f0:b0:7e
+	identifier=1,0:26:8:f0:b0:7e
+	lease=0x50be5e74
+}
+{
+	name=Snehas-iPhone
+	ip_address=10.0.2.109
+	hw_address=1,60:fa:cd:e6:cb:64
+	identifier=1,60:fa:cd:e6:cb:64
+	lease=0x50c0b336
+}
+{
+	ip_address=10.0.2.108
+	hw_address=1,e4:ce:8f:c:70:8c
+	identifier=1,e4:ce:8f:c:70:8c
+	lease=0x50b92b8d
+}
+{
+	ip_address=10.0.2.107
+	hw_address=1,e4:ce:8f:39:e7:32
+	identifier=1,e4:ce:8f:39:e7:32
+	lease=0x50a2af57
+}
+{
+	ip_address=10.0.2.106
+	hw_address=1,f0:b4:79:16:b:e4
+	identifier=1,f0:b4:79:16:b:e4
+	lease=0x50c7ffa4
+}
+{
+	ip_address=10.0.2.105
+	hw_address=1,0:26:8:e3:f:8
+	identifier=1,0:26:8:e3:f:8
+	lease=0x50a129b8
+}
+{
+	name=Reeds-iPhone
+	ip_address=10.0.2.104
+	hw_address=1,8c:58:77:e9:87:25
+	identifier=1,8c:58:77:e9:87:25
+	lease=0x50f58650
+}
+{
+	ip_address=10.0.2.103
+	hw_address=1,78:ca:39:b2:61:8f
+	identifier=1,78:ca:39:b2:61:8f
+	lease=0x509984fd
+}
+{
+	ip_address=10.0.2.102
+	hw_address=1,0:26:bb:8:7:f9
+	identifier=1,0:26:bb:8:7:f9
+	lease=0x50988943
+}
+{
+	name=android_ad9034ba548ae4ea
+	ip_address=10.0.2.101
+	hw_address=1,4:46:65:a8:83:f7
+	identifier=1,4:46:65:a8:83:f7
+	lease=0x5089f06d
+}
+{
+	name=android-ba14a9c3174d2206
+	ip_address=10.0.2.100
+	hw_address=1,8:0:28:95:e8:44
+	identifier=1,8:0:28:95:e8:44
+	lease=0x5087044b
+}
+{
+	name=android-ba14a9c3174d2206
+	ip_address=10.0.2.99
+	hw_address=1,8:0:28:8e:14:32
+	identifier=1,8:0:28:8e:14:32
+	lease=0x507ddf49
+}
+{
+	name=lindawang-PC
+	ip_address=10.0.2.98
+	hw_address=1,44:6d:57:b3:79:60
+	identifier=1,44:6d:57:b3:79:60
+	lease=0x50ace05c
+}
+{
+	name=android_30adefdf463cd239
+	ip_address=10.0.2.97
+	hw_address=1,bc:76:70:5c:e9:a6
+	identifier=1,bc:76:70:5c:e9:a6
+	lease=0x5113e252
+}
+{
+	ip_address=10.0.2.96
+	hw_address=1,e4:ce:8f:38:6b:64
+	identifier=1,e4:ce:8f:38:6b:64
+	lease=0x5122a238
+}
+{
+	ip_address=10.0.2.95
+	hw_address=1,14:10:9f:d0:9c:c7
+	identifier=1,14:10:9f:d0:9c:c7
+	lease=0x506cd029
+}
+{
+	ip_address=10.0.2.94
+	hw_address=1,60:33:4b:21:8e:48
+	identifier=1,60:33:4b:21:8e:48
+	lease=0x506ba27d
+}
+{
+	ip_address=10.0.2.93
+	hw_address=1,4:c:ce:d7:2a:2
+	identifier=1,4:c:ce:d7:2a:2
+	lease=0x506b1f36
+}
+{
+	ip_address=10.0.2.92
+	hw_address=1,b8:8d:12:25:7a:10
+	identifier=1,b8:8d:12:25:7a:10
+	lease=0x506a39a8
+}
+{
+	name=android_605c2ea40a5146b1
+	ip_address=10.0.2.91
+	hw_address=1,84:0:d2:cf:93:0
+	identifier=1,84:0:d2:cf:93:0
+	lease=0x506a1b35
+}
+{
+	ip_address=10.0.2.90
+	hw_address=1,b4:7:f9:5:f0:6c
+	identifier=1,b4:7:f9:5:f0:6c
+	lease=0x5066031a
+}
+{
+	name=lyndamac
+	ip_address=10.0.2.89
+	hw_address=1,0:25:4b:86:3c:c
+	identifier=1,0:25:4b:86:3c:c
+	lease=0x5064bfeb
+}
+{
+	name=android-ba14a9c3174d2206
+	ip_address=10.0.2.88
+	hw_address=1,8:0:28:ef:75:95
+	identifier=1,8:0:28:ef:75:95
+	lease=0x5064be15
+}
+{
+	ip_address=10.0.2.87
+	hw_address=1,10:40:f3:7b:fb:14
+	identifier=1,10:40:f3:7b:fb:14
+	lease=0x5064aa33
+}
+{
+	ip_address=10.0.2.86
+	hw_address=1,10:40:f3:7b:e4:5e
+	identifier=1,10:40:f3:7b:e4:5e
+	lease=0x50636c3d
+}
+{
+	ip_address=10.0.2.85
+	hw_address=1,60:c5:47:8e:9f:1e
+	identifier=1,60:c5:47:8e:9f:1e
+	lease=0x5063646d
+}
+{
+	ip_address=10.0.2.84
+	hw_address=1,90:27:e4:fd:16:ba
+	identifier=1,90:27:e4:fd:16:ba
+	lease=0x50610966
+}
+{
+	ip_address=10.0.2.83
+	hw_address=1,0:26:8:e0:3c:fc
+	identifier=1,0:26:8:e0:3c:fc
+	lease=0x50bf8a46
+}
+{
+	name=android_fd50ee09f1ba27f1
+	ip_address=10.0.2.82
+	hw_address=1,40:4d:8e:2:c0:91
+	identifier=1,40:4d:8e:2:c0:91
+	lease=0x507d2e21
+}
+{
+	name=Bos-iPod
+	ip_address=10.0.2.81
+	hw_address=1,d4:9a:20:12:fa:97
+	identifier=1,d4:9a:20:12:fa:97
+	lease=0x505b9a44
+}
+{
+	ip_address=10.0.2.80
+	hw_address=1,70:56:81:9d:c0:f
+	identifier=1,70:56:81:9d:c0:f
+	lease=0x5056542d
+}
+{
+	name=Vivis-iPod
+	ip_address=10.0.2.79
+	hw_address=1,28:37:37:7a:ff:b
+	identifier=1,28:37:37:7a:ff:b
+	lease=0x5112c0ff
+}
+{
+	ip_address=10.0.2.78
+	hw_address=1,0:26:8:e5:b5:4e
+	identifier=1,0:26:8:e5:b5:4e
+	lease=0x504fd018
+}
+{
+	name=android_7d378ee7ccecf5fc
+	ip_address=10.0.2.77
+	hw_address=1,4:46:65:39:aa:98
+	identifier=1,4:46:65:39:aa:98
+	lease=0x50fdeda7
+}
+{
+	name=Dean
+	ip_address=10.0.2.76
+	hw_address=1,0:25:d3:8c:32:40
+	identifier=1,0:25:d3:8c:32:40
+	lease=0x50c8d49a
+}
+{
+	name=Alejandra
+	ip_address=10.0.2.75
+	hw_address=1,4c:b1:99:2c:e8:6c
+	identifier=1,4c:b1:99:2c:e8:6c
+	lease=0x504e0825
+}
+{
+	name=Macintosh-137
+	ip_address=10.0.2.74
+	hw_address=1,0:26:8:f2:4f:7c
+	identifier=1,0:26:8:f2:4f:7c
+	lease=0x504a76fa
+}
+{
+	ip_address=10.0.2.73
+	hw_address=1,c0:9f:42:3f:b9:c2
+	identifier=1,c0:9f:42:3f:b9:c2
+	lease=0x50c0fdf9
+}
+{
+	ip_address=10.0.2.72
+	hw_address=1,78:ca:39:bd:c3:b9
+	identifier=1,78:ca:39:bd:c3:b9
+	lease=0x50bfb9fd
+}
+{
+	name=Matts-iPod
+	ip_address=10.0.2.71
+	hw_address=1,0:26:bb:2c:ff:63
+	identifier=1,0:26:bb:2c:ff:63
+	lease=0x5047a672
+}
+{
+	name=iPhone
+	ip_address=10.0.2.70
+	hw_address=1,18:9e:fc:c4:bb:42
+	identifier=1,18:9e:fc:c4:bb:42
+	lease=0x50b657bd
+}
+{
+	name=iPad
+	ip_address=10.0.2.69
+	hw_address=1,70:de:e2:bc:7:68
+	identifier=1,70:de:e2:bc:7:68
+	lease=0x50fff940
+}
+{
+	ip_address=10.0.2.68
+	hw_address=1,c8:bc:c8:e3:4a:3e
+	identifier=1,c8:bc:c8:e3:4a:3e
+	lease=0x505fb5cc
+}
+{
+	ip_address=10.0.2.67
+	hw_address=1,34:15:9e:8b:2f:14
+	identifier=1,34:15:9e:8b:2f:14
+	lease=0x50898075
+}
+{
+	name=android_1caf24a52ce341ce
+	ip_address=10.0.2.66
+	hw_address=1,44:a7:cf:34:c8:7
+	identifier=1,44:a7:cf:34:c8:7
+	lease=0x50b7f62e
+}
+{
+	name=iphone4
+	ip_address=10.0.2.65
+	hw_address=1,dc:2b:61:11:79:ad
+	identifier=1,dc:2b:61:11:79:ad
+	lease=0x503ed0e0
+}
+{
+	ip_address=10.0.2.64
+	hw_address=1,60:c5:47:0:5:9e
+	identifier=1,60:c5:47:0:5:9e
+	lease=0x503ed33c
+}
+{
+	ip_address=10.0.2.63
+	hw_address=1,18:34:51:96:86:50
+	identifier=1,18:34:51:96:86:50
+	lease=0x511aa528
+}
+{
+	name=android_6b61dfd651ac2b4b
+	ip_address=10.0.2.62
+	hw_address=1,4:46:65:36:8c:d1
+	identifier=1,4:46:65:36:8c:d1
+	lease=0x50bfa8bb
+}
+{
+	name=Marks-iPhone
+	ip_address=10.0.2.61
+	hw_address=1,24:ab:81:d1:67:2f
+	identifier=1,24:ab:81:d1:67:2f
+	lease=0x50b660eb
+}
+{
+	ip_address=10.0.2.60
+	hw_address=1,2c:44:1:8c:4c:6c
+	identifier=1,2c:44:1:8c:4c:6c
+	lease=0x5037a02c
+}
+{
+	name=android_e42f91bc8f780cef
+	ip_address=10.0.2.59
+	hw_address=1,ac:e8:7b:39:aa:41
+	identifier=1,ac:e8:7b:39:aa:41
+	lease=0x5119808e
+}
+{
+	name=JF371VE3
+	ip_address=10.0.2.58
+	hw_address=1,0:e:8e:1d:9f:8a
+	identifier=1,0:e:8e:1d:9f:8a
+	lease=0x502c19f3
+}
+{
+	name=android_4bb036f1f2ced6f1
+	ip_address=10.0.2.57
+	hw_address=1,f4:55:9c:b:c3:b2
+	identifier=1,f4:55:9c:b:c3:b2
+	lease=0x50a59848
+}
+{
+	name=android_a4478e4cb49900bf
+	ip_address=10.0.2.56
+	hw_address=1,44:a7:cf:21:34:5d
+	identifier=1,44:a7:cf:21:34:5d
+	lease=0x50085b09
+}
+{
+	name=Nicks-iPhone-2
+	ip_address=10.0.2.55
+	hw_address=1,18:34:51:e4:d8:80
+	identifier=1,18:34:51:e4:d8:80
+	lease=0x5005e457
+}
+{
+	name=Android_A1000017C71CF6
+	ip_address=10.0.2.54
+	hw_address=1,7c:61:93:a4:fa:eb
+	identifier=1,7c:61:93:a4:fa:eb
+	lease=0x5123de41
+}
+{
+	name=android_2fbde9ededf0f178
+	ip_address=10.0.2.53
+	hw_address=1,10:f9:6f:b5:7d:4e
+	identifier=1,10:f9:6f:b5:7d:4e
+	lease=0x500bef9a
+}
+{
+	ip_address=10.0.2.52
+	hw_address=1,0:1:36:65:27:70
+	identifier=1,0:1:36:65:27:70
+	lease=0x4fee14b3
+}
+{
+	name=android_d500be638894a85f
+	ip_address=10.0.2.51
+	hw_address=1,1c:1d:67:e0:72:a0
+	identifier=1,1c:1d:67:e0:72:a0
+	lease=0x4fd840c2
+}
+{
+	name=Android_A100001BD1CA73
+	ip_address=10.0.2.50
+	hw_address=1,1c:b0:94:48:33:98
+	identifier=1,1c:b0:94:48:33:98
+	lease=0x50ef803d
+}
+{
+	name=android_674a549577f5db9
+	ip_address=10.0.2.49
+	hw_address=1,50:cc:f8:56:50:b6
+	identifier=1,50:cc:f8:56:50:b6
+	lease=0x500da969
+}
+{
+	name=Josh-MBP
+	ip_address=10.0.2.48
+	hw_address=1,b8:8d:12:2e:be:5c
+	identifier=1,b8:8d:12:2e:be:5c
+	lease=0x4fb687b7
+}
+{
+	name=nickname
+	ip_address=10.0.2.47
+	hw_address=1,0:1b:77:d7:c0:65
+	identifier=1,0:1b:77:d7:c0:65
+	lease=0x4fb65dbf
+}
+{
+	name=Edmund-PC
+	ip_address=10.0.2.46
+	hw_address=1,0:21:6b:4:35:e8
+	identifier=1,0:21:6b:4:35:e8
+	lease=0x4fb5b5a9
+}
+{
+	name=android_3eef1ab6093ec32a
+	ip_address=10.0.2.45
+	hw_address=1,f4:55:9c:c1:18:55
+	identifier=1,f4:55:9c:c1:18:55
+	lease=0x4fb16b49
+}
+{
+	ip_address=10.0.2.44
+	hw_address=1,d0:23:db:98:15:1
+	identifier=1,d0:23:db:98:15:1
+	lease=0x4fac12cc
+}
+{
+	name=android_4ac414bbb99176cb
+	ip_address=10.0.2.43
+	hw_address=1,f4:55:9c:b:cc:82
+	identifier=1,f4:55:9c:b:cc:82
+	lease=0x4faad167
+}
+{
+	name=Bs3G
+	ip_address=10.0.2.42
+	hw_address=1,d8:30:62:9d:ba:b2
+	identifier=1,d8:30:62:9d:ba:b2
+	lease=0x4faa85c8
+}
+{
+	name=TBFLaptop13
+	ip_address=10.0.2.41
+	hw_address=1,1c:65:9d:9d:3b:9a
+	identifier=1,1c:65:9d:9d:3b:9a
+	lease=0x4faa8a58
+}
+{
+	ip_address=10.0.2.40
+	hw_address=1,0:26:bb:0:69:98
+	identifier=1,0:26:bb:0:69:98
+	lease=0x4f96e8f3
+}
+{
+	name=Android_358927040714539
+	ip_address=10.0.2.39
+	hw_address=1,1c:b0:94:1a:14:af
+	identifier=1,1c:b0:94:1a:14:af
+	lease=0x4fa911c8
+}
+{
+	ip_address=10.0.2.38
+	hw_address=1,0:26:8:e5:93:98
+	identifier=1,0:26:8:e5:93:98
+	lease=0x4f8e0087
+}
+{
+	ip_address=10.0.2.37
+	hw_address=1,fc:c7:34:aa:29:d9
+	identifier=1,fc:c7:34:aa:29:d9
+	lease=0x4f8df6c5
+}
+{
+	name=Mark-PC
+	ip_address=10.0.2.36
+	hw_address=1,0:23:14:d0:36:cc
+	identifier=1,0:23:14:d0:36:cc
+	lease=0x4f8ddb4e
+}
+{
+	ip_address=10.0.2.35
+	hw_address=1,0:1f:5b:c5:a6:92
+	identifier=1,0:1f:5b:c5:a6:92
+	lease=0x4f8dc519
+}
+{
+	ip_address=10.0.2.34
+	hw_address=1,0:26:8:e9:5f:a3
+	identifier=1,0:26:8:e9:5f:a3
+	lease=0x4f8c393f
+}
+{
+	ip_address=10.0.2.33
+	hw_address=1,e0:f8:47:e:5a:c
+	identifier=1,e0:f8:47:e:5a:c
+	lease=0x50a3fa6c
+}
+{
+	ip_address=10.0.2.32
+	hw_address=1,68:a8:6d:1e:f8:2e
+	identifier=1,68:a8:6d:1e:f8:2e
+	lease=0x4f86eff2
+}
+{
+	ip_address=10.0.2.31
+	hw_address=1,58:b0:35:62:4b:ae
+	identifier=1,58:b0:35:62:4b:ae
+	lease=0x4f970c89
+}
+{
+	ip_address=10.0.2.30
+	hw_address=1,0:21:e9:da:db:3c
+	identifier=1,0:21:e9:da:db:3c
+	lease=0x4f848ab6
+}
+{
+	ip_address=10.0.2.29
+	hw_address=1,68:a8:6d:55:5:5e
+	identifier=1,68:a8:6d:55:5:5e
+	lease=0x50995cbc
+}
+{
+	name=SHA-NetBook
+	ip_address=10.0.2.28
+	hw_address=1,0:25:d3:f4:b6:21
+	identifier=1,0:25:d3:f4:b6:21
+	lease=0x4f7dddbe
+}
+{
+	name=Samantha
+	ip_address=10.0.2.27
+	hw_address=1,f0:b4:79:9e:9d:bf
+	identifier=1,f0:b4:79:9e:9d:bf
+	lease=0x4f7b94e6
+}
+{
+	ip_address=10.0.2.26
+	hw_address=1,e4:ce:8f:39:24:f0
+	identifier=1,e4:ce:8f:39:24:f0
+	lease=0x4f7b2a2b
+}
+{
+	ip_address=10.0.2.25
+	hw_address=1,cc:8:e0:38:ba:d
+	identifier=1,cc:8:e0:38:ba:d
+	lease=0x4f96eb3d
+}
+{
+	name=Joshuas-iPad
+	ip_address=10.0.2.24
+	hw_address=1,e0:b9:ba:22:99:cc
+	identifier=1,e0:b9:ba:22:99:cc
+	lease=0x50c66964
+}
+{
+	name=android_cd9f30c058cd92c4
+	ip_address=10.0.2.23
+	hw_address=1,4:46:65:b8:7:f9
+	identifier=1,4:46:65:b8:7:f9
+	lease=0x4f8b09c6
+}
+{
+	ip_address=10.0.2.22
+	hw_address=1,cc:f9:e8:63:96:ec
+	identifier=1,cc:f9:e8:63:96:ec
+	lease=0x4f777df1
+}
+{
+	name=Rachel
+	ip_address=10.0.2.21
+	hw_address=1,0:19:7e:af:9d:23
+	identifier=1,0:19:7e:af:9d:23
+	lease=0x4f74eef1
+}
+{
+	name=android_441a4ed4728e27ad
+	ip_address=10.0.2.20
+	hw_address=1,50:cc:f8:79:89:4e
+	identifier=1,50:cc:f8:79:89:4e
+	lease=0x4f74c15d
+}
+{
+	ip_address=10.0.2.19
+	hw_address=1,68:a8:6d:55:89:40
+	identifier=1,68:a8:6d:55:89:40
+	lease=0x4f7b44d1
+}
+{
+	ip_address=10.0.2.18
+	hw_address=1,4:c:ce:d7:e5:7e
+	identifier=1,4:c:ce:d7:e5:7e
+	lease=0x4f864ad1
+}
+{
+	ip_address=10.0.2.17
+	hw_address=1,68:a8:6d:a0:92:b2
+	identifier=1,68:a8:6d:a0:92:b2
+	lease=0x4fa966d6
+}
+{
+	ip_address=10.0.2.16
+	hw_address=1,28:cf:da:e1:4f:74
+	identifier=1,28:cf:da:e1:4f:74
+	lease=0x4f96c8ea
+}
+{
+	ip_address=10.0.2.15
+	hw_address=1,cc:f9:e8:c9:1f:4
+	identifier=1,cc:f9:e8:c9:1f:4
+	lease=0x4f70fcd9
+}
+{
+	ip_address=10.0.2.14
+	hw_address=1,34:15:9e:8e:c:74
+	identifier=1,34:15:9e:8e:c:74
+	lease=0x4f8efd86
+}
+{
+	name=android_4327ee8c3961ef1e
+	ip_address=10.0.2.13
+	hw_address=1,44:a7:cf:d5:32:25
+	identifier=1,44:a7:cf:d5:32:25
+	lease=0x4f6cea23
+}
+{
+	ip_address=10.0.2.12
+	hw_address=1,98:4b:4a:c5:44:d0
+	identifier=1,98:4b:4a:c5:44:d0
+	lease=0x4f9741c0
+}
+{
+	ip_address=10.0.2.11
+	hw_address=1,0:1f:5b:c1:56:73
+	identifier=1,0:1f:5b:c1:56:73
+	lease=0x4f95a3d4
+}
+{
+	name=android_69c6826d46413bd6
+	ip_address=10.0.2.10
+	hw_address=1,bc:76:70:9:f4:c1
+	identifier=1,bc:76:70:9:f4:c1
+	lease=0x50a6217c
+}
+{
+	name=Android_A1000017ED2B96
+	ip_address=10.0.2.9
+	hw_address=1,64:a7:69:cc:f6:47
+	identifier=1,64:a7:69:cc:f6:47
+	lease=0x4f878f47
+}
+{
+	ip_address=10.0.2.8
+	hw_address=1,d8:a2:5e:94:c5:45
+	identifier=1,d8:a2:5e:94:c5:45
+	lease=0x4f68d9a1
+}
+{
+	ip_address=10.0.2.7
+	hw_address=1,28:37:37:1e:2e:98
+	identifier=1,28:37:37:1e:2e:98
+	lease=0x50be5577
+}
+{
+	ip_address=10.0.2.6
+	hw_address=1,24:ab:81:cc:41:62
+	identifier=1,24:ab:81:cc:41:62
+	lease=0x4d52dd11
+}
+{
+	name=android_200142d4dfc0b00c
+	ip_address=10.0.2.5
+	hw_address=1,0:23:76:99:5e:d0
+	identifier=1,0:23:76:99:5e:d0
+	lease=0x4d517879
+}
+{
+	name=Macintosh-104
+	ip_address=10.0.2.4
+	hw_address=1,0:21:e9:d9:fa:88
+	identifier=1,0:21:e9:d9:fa:88
+	lease=0x4a2d3e8a
+}
+{
+	name=iPod-touch
+	ip_address=10.0.2.3
+	hw_address=1,0:25:4b:42:1b:9e
+	identifier=1,0:25:4b:42:1b:9e
+	lease=0x4a292dfd
+}
+{
+	name=microTouch
+	ip_address=10.0.2.2
+	hw_address=1,0:22:41:77:2d:fe
+	identifier=1,0:22:41:77:2d:fe
+	lease=0x4b673c26
+}
